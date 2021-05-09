@@ -33,9 +33,81 @@ citecolor=black, menucolor=black, filecolor=black,
 \geometry{left=30mm}
 
 
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+
+% Перевод плагина
+\makeatletter
+% Перевод данных об алгоритмах
+\renewcommand{\listalgorithmname}{Список алгоритмов}
+\floatname{algorithm}{Алгоритм}
+
+%% Перевод команд псевдокода
+%\algrenewcommand\algorithmicwhile{\textbf{До тех пока}}
+%\algrenewcommand\algorithmicdo{\textbf{выполнять}}
+%\algrenewcommand\algorithmicrepeat{\textbf{Повторять}}
+%\algrenewcommand\algorithmicuntil{\textbf{Пока выполняется}}
+%\algrenewcommand\algorithmicend{\textbf{Конец}}
+%\algrenewcommand\algorithmicif{\textbf{Если}}
+%\algrenewcommand\algorithmicelse{\textbf{иначе}}
+%\algrenewcommand\algorithmicthen{\textbf{тогда}}
+%\algrenewcommand\algorithmicfor{\textbf{Цикл}}
+%\algrenewcommand\algorithmicforall{\textbf{Выполнить для всех}}
+%\algrenewcommand\algorithmicfunction{\textbf{Функция}}
+%\algrenewcommand\algorithmicprocedure{\textbf{Процедура}}
+%\algrenewcommand\algorithmicloop{\textbf{Зациклить}}
+%\algrenewcommand\algorithmicrequire{\textbf{Условия:}}
+%\algrenewcommand\algorithmicensure{\textbf{Обеспечивающие условия:}}
+%\algrenewcommand\algorithmicreturn{\textbf{Возвратить}}
+%\algrenewtext{EndWhile}{\textbf{Конец цикла}}
+%\algrenewtext{EndLoop}{\textbf{Конец зацикливания}}
+%\algrenewtext{EndFor}{\textbf{Конец цикла}}
+%\algrenewtext{EndFunction}{\textbf{Конец функции}}
+%\algrenewtext{EndProcedure}{\textbf{Конец процедуры}}
+%\algrenewtext{EndIf}{\textbf{Конец условия}}
+%\algrenewtext{EndFor}{\textbf{Конец цикла}}
+%\algrenewtext{BeginAlgorithm}{\textbf{Начало алгоритма}}
+%\algrenewtext{EndAlgorithm}{\textbf{Конец алгоритма}}
+%\algrenewtext{BeginBlock}{\textbf{Начало блока. }}
+%\algrenewtext{EndBlock}{\textbf{Конец блока}}
+%\algrenewtext{ElsIf}{\textbf{иначе если }}
+\makeatother
+
+%\usepackage{caption}
+%\captionsetup[ruled]{labelsep=period}
+%\makeatletter
+%\@addtoreset{algorithm}{chapter}% algorithm counter resets every chapter
+%\makeatother
+%\renewcommand{\thealgorithm}{\thechapter.\arabic{algorithm}}% Algorithm # is %<chapter>.<algorithm>
+
 
 % Произвольная нумерация списков.
 \usepackage{enumerate}
+\usepackage{color}
+
+\usepackage{hyperref}
+\usepackage{listings}
+%\lstset{extendedchars=\true}
+\lstset{ %
+	language=[Auto]Lisp,
+	inputencoding=cp1251,
+	basicstyle=\small\sffamily, % размер и начертание шрифта для подсветки кода
+	numbers=left,               % где поставить нумерацию строк (слева\справа)
+	numberstyle=\tiny,           % размер шрифта для номеров строк
+	stepnumber=1,                   % размер шага между двумя номерами строк
+	numbersep=5pt,                % как далеко отстоят номера строк от подсвечиваемого кода
+	backgroundcolor=\color{white}, % цвет фона подсветки - используем \usepackage{color}
+	showspaces=false,            % показывать или нет пробелы специальными отступами
+	showstringspaces=false,      % показывать или нет пробелы в строках
+	showtabs=false,             % показывать или нет табуляцию в строках
+	frame=single,              % рисовать рамку вокруг кода
+	tabsize=2,                 % размер табуляции по умолчанию равен 2 пробелам
+	captionpos=t,              % позиция заголовка вверху [t] или внизу [b] 
+	breaklines=true,           % автоматически переносить строки (да\нет)
+	breakatwhitespace=false, % переносить строки только если есть пробел
+	escapeinside={-\%*}{*)}   % если нужно добавить комментарии в 
+}
+%\usepackage{minted}
 
 \setcounter{tocdepth}{2} %Подробность оглавления
 %4 это chapter, section, subsection, subsubsection и paragraph

@@ -8,32 +8,39 @@
 \include{10-preamble}
 
 \begin{document}
-
-\frontmatter % выключает нумерацию ВСЕГО; здесь начинаются ненумерованные главы: реферат, введение, глоссарий, сокращения и прочее.
-\include{11-title-page}
-
-\thispagestyle{empty}
-\setcounter{page}{0}
-\tableofcontents
-\clearpage
-
-
-\include{2-intro}
-
-\mainmatter
-
-\include{31-chapter-one}
-\include{32-chapter-two}
-
-\backmatter %% Здесь заканчивается нумерованная часть документа и начинаются ссылки и
-            %% заключение
-
-\include{4-conclusion}
-
-\include{5-biblio}
-
-\appendix   % Тут идут приложения
-
-\include{61-appendix}
-
+	\lstset{language=csh} 
+	\frontmatter % выключает нумерацию ВСЕГО; здесь начинаются ненумерованные главы: реферат, введение, глоссарий, сокращения и прочее.
+	\pagestyle{empty}
+	%\include{annotation}
+	%\include{abstract}
+	\pagestyle{plain}
+	\include{11-title-page}
+	
+	\thispagestyle{empty}
+	\setcounter{page}{0}
+	\tableofcontents
+	\clearpage
+	
+	
+	\include{2-intro}
+	
+	\mainmatter
+	
+	%\include{30-terms}
+	\include{31-chapter-one}
+	\include{32-chapter-two}
+	%\include{33-chapter-three}
+	%\include{34-chapter-four}
+	
+	\backmatter %% Здесь заканчивается нумерованная часть документа и начинаются ссылки и
+	%% заключение
+	
+	%\include{4-conclusion}
+	
+	%\include{5-biblio}
+	
+	\appendix   % Тут идут приложения
+	
+	%\include{61-appendix}
+	
 \end{document}

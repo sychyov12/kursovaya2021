@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \def\selectlanguageifdefined#1{
 \expandafter\ifx\csname date#1\endcsname\relax
 \else\language\csname l@#1\endcsname\fi}
@@ -7,33 +7,105 @@
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
-\bibitem{Berkutov}
+\bibitem{GOST34111994}
 \selectlanguageifdefined{russian}
-\BibEmph{Беркутов,~А.М.} Системы комплекстной
-  электромагнитотерапии~/ А.М.~Беркутов. ---
-\newblock М.: Бином, 2000.
+ГОСТ Р 34.11—94. Информационная технология.
+  Криптографическая защита информации.
+  Функция хэширования. ---
+\newblock М.: Издательство стандартов, 1994, 16 c.
 
-\bibitem{Zolotuhina_Ulaschik}
+\bibitem{GOSTR34112012}
 \selectlanguageifdefined{russian}
-\BibEmph{И.Е.~Золотухина,~В.С.~Улащик}. Основы
-  импульсной магнитотерапии~/
-  В.С.~Улащик~И.Е.~Золотухина. ---
-\newblock Витебск: Витебская областная
-  типография, 2008.
+ГОСТ Р 34.11—2012. Информационная технология.
+  Криптографическая защита информации.
+  Функция хэширования. ---
+\newblock М.: Стандартинформ, 2013, 25 c.
 
-\bibitem{Ulaschik_Physio}
-\selectlanguageifdefined{russian}
-\BibEmph{Улащик,~В.С.} Физиотерапия.
-  Универсальная медицинская энциклопедия~/
-  В.С.~Улащик. ---
-\newblock Минск: Книжный дом, 2008.
+\bibitem{GOST34111994Cryptoanalysis}
+\selectlanguageifdefined{english}
+Cryptanalysis of the GOST Hash Function~/ Christian~Rechberger, Marcin~Kontak,
+  Janusz~Szmidt, Florian~Mendel, Norbert~Pramstaller [Электронный
+  ресурс]. ---
+\newblock URL:
+  \url{https://online.tu-graz.ac.at/tug_online/voe_main2.getVollText?pDocumentNr=80200&pCurrPk=36649}.
 
-\bibitem{Gular_Limpanskiy}
+\bibitem{RCMerkle}
+\selectlanguageifdefined{english}
+\BibEmph{Merkle,~R.C.} Secrecy, authentication, and public key systems~/
+  R.C.~Merkle. ---
+\newblock Stanford, CA, USA: Stanford University, 1979.
+
+\bibitem{MiyaguchiS}
+\selectlanguageifdefined{english}
+\BibEmph{Miyaguchi~S.~Ohta~K.,~Iwata~M.} 128-bit hash function (NHash) //
+  Proceedings of SECURICOM ’90. — 03.1990~/ Iwata~M.~Miyaguchi~S., Ohta~K.
+  ---
+\newblock С. 123—137. — (SECURICOM ’90).
+
+\bibitem{HAIFA}
+\selectlanguageifdefined{english}
+\BibEmph{Biham~E.,~Dunkelman~O.} A Framework for Iterative Hash Functions –
+  HAIFA~/ Dunkelman~O.~Biham~E. ---
+\newblock International Association for Cryptologic Research, 2007.
+
+\bibitem{LebedevHash}
 \selectlanguageifdefined{russian}
-\BibEmph{С.А.~Гуляр,~Ю.П.~Лиманский}. Постоянные
-  магнитные поля и их применение в
-  медицине~/ Ю.П.~Лиманский~С.А.~Гуляр. ---
-\newblock Киев: Ин-т физиол. им. А.А. Богомольца
-  НАН Украины, 2006.
+Лебедев П.А. Сравнение старого и нового
+  стандартов РФ на криптографическую
+  хэш-функцию на ЦП и графических
+  процессорах NVIDIA // Матем. вопр. криптогр. ---
+\newblock М., 2013. — Т. 4, вып. 2. — С. 73—80.
+
+\bibitem{degtyarevHash}
+\selectlanguageifdefined{english}
+GOST R 34.11-2012: RFC-6986 cryptographic hash function [Электронный
+  ресурс]. ---
+\newblock URL: \url{https://github.com/adegtyarev/streebog}.
+
+\bibitem{GOST34101994}
+\selectlanguageifdefined{russian}
+ГОСТ Р 34.10—94. Информационная технология.
+  Криптографическая защита информации.
+  Процедуры выработки и проверки
+  электронной цифровой подписи на базе
+  асимметричного криптографического
+  алгоритма. ---
+\newblock М.: Издательство стандартов, 1994, 14 c.
+
+\bibitem{GOST34102001}
+\selectlanguageifdefined{russian}
+ГОСТ Р 34.10—2001. Информационная технология.
+  Криптографическая защита информации
+  Процессы формирования и проверки
+  электронной цифровой подписи. ---
+\newblock М.: Издательство стандартов, 2001, 16 c.
+
+\bibitem{GOST34102012}
+\selectlanguageifdefined{russian}
+ГОСТ Р 34.10—2012. Информационная технология.
+  Криптографическая защита информации
+  Процессы формирования и проверки
+  электронной цифровой подписи. ---
+\newblock М.: Стандартинформ, 2013, 20 c.
+
+\bibitem{FIPSPUB1864}
+\selectlanguageifdefined{english}
+FIPS PUB 186-4 Federal Information Processing Standards Publication. Digital
+  Signature Standard (DSS) [Электронный ресурс]. ---
+\newblock URL: \url{http://dx.doi.org/10.6028/NIST.FIPS.186-4}.
+
+\bibitem{IntroToAlg}
+\selectlanguageifdefined{english}
+\BibEmph{Thomas H.~Cormen~Charles E.~Leiserson,~Ronald L. Rivest
+  Clifford~Stein}. Introduction to Algorithms 3rd ed~/ Ronald L. Rivest
+  Clifford~Stein~Thomas H.~Cormen, Charles E.~Leiserson. ---
+\newblock L: The MIT Press, 2009.
+
+\bibitem{AndrewTroelsenPhilipJapikse}
+\selectlanguageifdefined{russian}
+\BibEmph{Эндрю~Троелсен,~Филипп~Джепикс}. Язык
+  программирования С\# 6.0 и платформа .NЕТ 4.6
+  7-е изд.~/ Филипп~Джепикс~Эндрю~Троелсен. ---
+\newblock М. : ООО «И.Д. Вильямс», 2008.
 
 \end{thebibliography}
