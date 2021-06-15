@@ -9,10 +9,11 @@
 
 \begin{document}
 	\lstset{language=csh} 
+	\newtheorem{theo}{Теорема}
 	\frontmatter % выключает нумерацию ВСЕГО; здесь начинаются ненумерованные главы: реферат, введение, глоссарий, сокращения и прочее.
 	\pagestyle{empty}
-	\include{annotation}
-	\include{abstract}
+	%\include{annotation}
+	%\include{abstract}
 	\pagestyle{plain}
 	\include{11-title-page}
 	
@@ -26,11 +27,11 @@
 	
 	\mainmatter
 	
-	\include{30-terms}
+	%\include{30-terms}
 	\include{31-chapter-one}
 	\include{32-chapter-two}
-	\include{33-chapter-three}
-	\include{34-chapter-four}
+	%\include{33-chapter-three}
+	%\include{34-chapter-four}
 	
 	\backmatter %% Здесь заканчивается нумерованная часть документа и начинаются ссылки и
 	%% заключение
@@ -41,6 +42,6 @@
 	
 	\appendix   % Тут идут приложения
 	
-	\include{61-appendix}
+	%\include{61-appendix}
 	
 \end{document}

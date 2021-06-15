@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{1}
 \def\selectlanguageifdefined#1{
 \expandafter\ifx\csname date#1\endcsname\relax
 \else\language\csname l@#1\endcsname\fi}
@@ -7,105 +7,34 @@
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
-\bibitem{GOST34111994}
-\selectlanguageifdefined{russian}
-ГОСТ Р 34.11—94. Информационная технология.
-  Криптографическая защита информации.
-  Функция хэширования. ---
-\newblock М.: Издательство стандартов, 1994, 16 c.
-
-\bibitem{GOSTR34112012}
-\selectlanguageifdefined{russian}
-ГОСТ Р 34.11—2012. Информационная технология.
-  Криптографическая защита информации.
-  Функция хэширования. ---
-\newblock М.: Стандартинформ, 2013, 25 c.
-
-\bibitem{GOST34111994Cryptoanalysis}
+\bibitem{NIPS07cfr}
 \selectlanguageifdefined{english}
-Cryptanalysis of the GOST Hash Function~/ Christian~Rechberger, Marcin~Kontak,
-  Janusz~Szmidt, Florian~Mendel, Norbert~Pramstaller [Электронный
-  ресурс]. ---
-\newblock URL:
-  \url{https://online.tu-graz.ac.at/tug_online/voe_main2.getVollText?pDocumentNr=80200&pCurrPk=36649}.
+\BibEmph{Martin~Zinkevich~Michael~Johanson,~Michael Bowling Carmelo~Piccione}.
+  Regret minimization in games with incomplete information. In J.C. Platt, D.
+  Koller, Y. Singer, and S. Roweis, editors, Advances in Neural Information
+  Processing Systems 20, pages 1729–1736~/ Michael Bowling
+  Carmelo~Piccione~Martin~Zinkevich, Michael~Johanson. ---
+\newblock MIT Press, Cambridge, 2008.
 
-\bibitem{RCMerkle}
+\bibitem{MCCFR}
 \selectlanguageifdefined{english}
-\BibEmph{Merkle,~R.C.} Secrecy, authentication, and public key systems~/
-  R.C.~Merkle. ---
-\newblock Stanford, CA, USA: Stanford University, 1979.
+\BibEmph{Marc~Lanctot~Kevin~Waugh,~Martin Zinkevich Michael~Bowling}. Monte
+  carlo sampling for regret minimization in extensive games. In Y. Bengio, D.
+  Schuurmans, J. Lafferty, C. K. I. Williams, and A. Culotta, editors, Advances
+  in Neural Information Processing Systems 22, pages 1078–1086~/ Martin
+  Zinkevich Michael~Bowling~Marc~Lanctot, Kevin~Waugh. ---
+\newblock MIT Press, Cambridge, 2009.
 
-\bibitem{MiyaguchiS}
+\bibitem{RegretMatching}
 \selectlanguageifdefined{english}
-\BibEmph{Miyaguchi~S.~Ohta~K.,~Iwata~M.} 128-bit hash function (NHash) //
-  Proceedings of SECURICOM ’90. — 03.1990~/ Iwata~M.~Miyaguchi~S., Ohta~K.
-  ---
-\newblock С. 123—137. — (SECURICOM ’90).
+\BibEmph{Hart,~Sergiu}. A simple adaptive procedure leading to correlated
+  equilibrium~/ Sergiu~Hart, Andreu~Mas-Colell. ---
+\newblock Econometrica, 68(5):1127–1150, September 2000.
 
-\bibitem{HAIFA}
+\bibitem{aay2400}
 \selectlanguageifdefined{english}
-\BibEmph{Biham~E.,~Dunkelman~O.} A Framework for Iterative Hash Functions –
-  HAIFA~/ Dunkelman~O.~Biham~E. ---
-\newblock International Association for Cryptologic Research, 2007.
-
-\bibitem{LebedevHash}
-\selectlanguageifdefined{russian}
-Лебедев П.А. Сравнение старого и нового
-  стандартов РФ на криптографическую
-  хэш-функцию на ЦП и графических
-  процессорах NVIDIA // Матем. вопр. криптогр. ---
-\newblock М., 2013. — Т. 4, вып. 2. — С. 73—80.
-
-\bibitem{degtyarevHash}
-\selectlanguageifdefined{english}
-GOST R 34.11-2012: RFC-6986 cryptographic hash function [Электронный
-  ресурс]. ---
-\newblock URL: \url{https://github.com/adegtyarev/streebog}.
-
-\bibitem{GOST34101994}
-\selectlanguageifdefined{russian}
-ГОСТ Р 34.10—94. Информационная технология.
-  Криптографическая защита информации.
-  Процедуры выработки и проверки
-  электронной цифровой подписи на базе
-  асимметричного криптографического
-  алгоритма. ---
-\newblock М.: Издательство стандартов, 1994, 14 c.
-
-\bibitem{GOST34102001}
-\selectlanguageifdefined{russian}
-ГОСТ Р 34.10—2001. Информационная технология.
-  Криптографическая защита информации
-  Процессы формирования и проверки
-  электронной цифровой подписи. ---
-\newblock М.: Издательство стандартов, 2001, 16 c.
-
-\bibitem{GOST34102012}
-\selectlanguageifdefined{russian}
-ГОСТ Р 34.10—2012. Информационная технология.
-  Криптографическая защита информации
-  Процессы формирования и проверки
-  электронной цифровой подписи. ---
-\newblock М.: Стандартинформ, 2013, 20 c.
-
-\bibitem{FIPSPUB1864}
-\selectlanguageifdefined{english}
-FIPS PUB 186-4 Federal Information Processing Standards Publication. Digital
-  Signature Standard (DSS) [Электронный ресурс]. ---
-\newblock URL: \url{http://dx.doi.org/10.6028/NIST.FIPS.186-4}.
-
-\bibitem{IntroToAlg}
-\selectlanguageifdefined{english}
-\BibEmph{Thomas H.~Cormen~Charles E.~Leiserson,~Ronald L. Rivest
-  Clifford~Stein}. Introduction to Algorithms 3rd ed~/ Ronald L. Rivest
-  Clifford~Stein~Thomas H.~Cormen, Charles E.~Leiserson. ---
-\newblock L: The MIT Press, 2009.
-
-\bibitem{AndrewTroelsenPhilipJapikse}
-\selectlanguageifdefined{russian}
-\BibEmph{Эндрю~Троелсен,~Филипп~Джепикс}. Язык
-  программирования С\# 6.0 и платформа .NЕТ 4.6
-  7-е изд.~/ Филипп~Джепикс~Эндрю~Троелсен. ---
-\newblock М. : ООО «И.Д. Вильямс», 2008.
+\BibEmph{Brown,~Noam}. Supplementary Materials for Superhuman AI for
+  multiplayer poker~/ Noam~Brown, Tuomas~Sandholm. ---
+\newblock Science First Release DOI: 10.1126/science.aay2400, 11 July 2019.
 
 \end{thebibliography}
