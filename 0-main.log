@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.12.27)  15 JUN 2021 23:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.12.27)  16 JUN 2021 23:59
 entering extended mode
 **./0-main.tex
 (0-main.tex
@@ -852,6 +852,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
 \c@theo=\count314
+\c@defin=\count315
 \openout2 = `11-title-page.aux'.
 
  (11-title-page.tex<<t2a.cmap>> (C:\Users\sychy\AppData\Roaming\MiKTeX\tex/late
@@ -970,7 +971,7 @@ LaTeX Font Warning: Font shape `PU/cmr/m/up' undefined
 {page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.26 	\include{2-intro}
+l.27 	\include{2-intro}
                         [1
 
 
@@ -996,15 +997,15 @@ File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 [5]
 \openout2 = `32-chapter-two.aux'.
 
- (32-chapter-two.tex) [6
+ (32-chapter-two.tex [6
 
 
 
 
-]
+]) [7]
 \openout2 = `4-conclusion.aux'.
 
- (4-conclusion.tex) [7
+ (4-conclusion.tex) [8
 
 
 
@@ -1012,13 +1013,14 @@ File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 ]
 \openout2 = `5-biblio.aux'.
 
- (5-biblio.tex (0-main.bbl
+ (5-biblio.tex
+(0-main.bbl
 Underfull \hbox (badness 1038) in paragraph at lines 36--39
 \T2A/cmr/m/n/12 er poker / Noam Brown, Tuomas Sandholm. ---  Science First 
 Release DOI:
  []
 
-)) [8
+)) [9
 
 
 
@@ -1026,17 +1028,17 @@ Release DOI:
 ] (0-main.aux (11-title-page.aux) (2-intro.aux) (31-chapter-one.aux)
 (32-chapter-two.aux) (4-conclusion.aux) (5-biblio.aux))
 Package rerunfilecheck Info: File `0-main.out' has not changed.
-(rerunfilecheck)             Checksum: 2FA8DEE81E27A489B295E6B2CA24DA43;2945.
+(rerunfilecheck)             Checksum: B29F401EDF5786E5D3CEADED22F8C3CB;2757.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 16904 strings out of 479798
- 242586 string characters out of 2879540
- 731649 words of memory out of 3000000
- 33487 multiletter control sequences out of 15000+200000
+ 16912 strings out of 479798
+ 242634 string characters out of 2879540
+ 731720 words of memory out of 3000000
+ 33493 multiletter control sequences out of 15000+200000
  549730 words of font info for 64 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  93i,18n,98p,1318b,665s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1058,9 +1060,9 @@ ic/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
 :/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Fil
 es/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fon
 ts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on 0-main.pdf (10 pages, 287971 bytes).
+Output written on 0-main.pdf (11 pages, 295434 bytes).
 PDF statistics:
- 572 PDF objects out of 1000 (max. 8388607)
- 37 named destinations out of 1000 (max. 500000)
- 109 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 582 PDF objects out of 1000 (max. 8388607)
+ 39 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
