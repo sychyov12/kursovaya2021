@@ -7,34 +7,40 @@
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
-\bibitem{NIPS07cfr}
+\bibitem{aay2400}
 \selectlanguageifdefined{english}
-\BibEmph{Martin~Zinkevich~Michael~Johanson,~Michael Bowling Carmelo~Piccione}.
-  Regret minimization in games with incomplete information. In J.C. Platt, D.
-  Koller, Y. Singer, and S. Roweis, editors, Advances in Neural Information
-  Processing Systems 20, pages 1729–1736~/ Michael Bowling
-  Carmelo~Piccione~Martin~Zinkevich, Michael~Johanson. ---
-\newblock MIT Press, Cambridge, 2008.
+\BibEmph{Brown,~Noam}. Supplementary Materials for Superhuman AI for
+  multiplayer poker~/ Noam~Brown, Tuomas~Sandholm. ---
+\newblock Science First Release DOI: 10.1126/science.aay2400, 11 July 2019.
 
 \bibitem{MCCFR}
 \selectlanguageifdefined{english}
 \BibEmph{Marc~Lanctot~Kevin~Waugh,~Martin Zinkevich Michael~Bowling}. Monte
   carlo sampling for regret minimization in extensive games. In Y. Bengio, D.
   Schuurmans, J. Lafferty, C. K. I. Williams, and A. Culotta, editors, Advances
-  in Neural Information Processing Systems 22, pages 1078–1086~/ Martin
-  Zinkevich Michael~Bowling~Marc~Lanctot, Kevin~Waugh. ---
-\newblock MIT Press, Cambridge, 2009.
+  in Neural Information Processing Systems 22~/ Martin Zinkevich
+  Michael~Bowling~Marc~Lanctot, Kevin~Waugh. ---
+\newblock MIT Press, Cambridge, 2009, pages 1078–1086.
+
+\bibitem{NIPS07cfr}
+\selectlanguageifdefined{english}
+\BibEmph{Martin~Zinkevich~Michael~Johanson,~Michael Bowling Carmelo~Piccione}.
+  Regret minimization in games with incomplete information. In J.C. Platt, D.
+  Koller, Y. Singer, and S. Roweis, editors, Advances in Neural Information
+  Processing Systems 20~/ Michael Bowling Carmelo~Piccione~Martin~Zinkevich,
+  Michael~Johanson. ---
+\newblock MIT Press, Cambridge, 2008, pages 1729–1736.
 
 \bibitem{RegretMatching}
 \selectlanguageifdefined{english}
 \BibEmph{Hart,~Sergiu}. A simple adaptive procedure leading to correlated
   equilibrium~/ Sergiu~Hart, Andreu~Mas-Colell. ---
-\newblock Econometrica, 68(5):1127–1150, September 2000.
+\newblock Econometrica, 68(5), September 2000, pages 1127–1150.
 
-\bibitem{aay2400}
+\bibitem{KuhnPoker}
 \selectlanguageifdefined{english}
-\BibEmph{Brown,~Noam}. Supplementary Materials for Superhuman AI for
-  multiplayer poker~/ Noam~Brown, Tuomas~Sandholm. ---
-\newblock Science First Release DOI: 10.1126/science.aay2400, 11 July 2019.
+\BibEmph{W.,~Kuhn~H.} "Simplified Two-Person Poker". In Kuhn, H. W.; Tucker, A.
+  W. (eds.). Contributions to the Theory of Games. 1.~/ Kuhn~H.~W. ---
+\newblock Princeton University Press, 1950, pp. 97–103.
 
 \end{thebibliography}

@@ -17,53 +17,53 @@ Reallocating 'name_of_file' (item size: 1) to 9 items.
 The style file: gost780u.bst
 Reallocating 'name_of_file' (item size: 1) to 7 items.
 Database file #1: 0-main.bib
-Too many commas in name 1 of "Martin Zinkevich, Michael Johanson, Michael Bowling, Carmelo Piccione" for entry NIPS07cfr
-while executing---line 1418 of file gost780u.bst
-Too many commas in name 1 of "Martin Zinkevich, Michael Johanson, Michael Bowling, Carmelo Piccione" for entry NIPS07cfr
-while executing---line 1418 of file gost780u.bst
 Too many commas in name 1 of "Marc Lanctot, Kevin Waugh, Martin Zinkevich, Michael Bowling" for entry MCCFR
 while executing---line 1418 of file gost780u.bst
 Too many commas in name 1 of "Marc Lanctot, Kevin Waugh, Martin Zinkevich, Michael Bowling" for entry MCCFR
 while executing---line 1418 of file gost780u.bst
-You've used 4 entries,
+Too many commas in name 1 of "Martin Zinkevich, Michael Johanson, Michael Bowling, Carmelo Piccione" for entry NIPS07cfr
+while executing---line 1418 of file gost780u.bst
+Too many commas in name 1 of "Martin Zinkevich, Michael Johanson, Michael Bowling, Carmelo Piccione" for entry NIPS07cfr
+while executing---line 1418 of file gost780u.bst
+You've used 5 entries,
             2674 wiz_defined-function locations,
-            665 strings with 6007 characters,
-and the built_in function-call counts, 1006 in all, are:
-= -- 126
-> -- 24
-< -- 4
-+ -- 10
-- -- 6
-* -- 30
-:= -- 119
-add.period$ -- 12
-call.type$ -- 4
+            671 strings with 6195 characters,
+and the built_in function-call counts, 1236 in all, are:
+= -- 156
+> -- 28
+< -- 5
++ -- 12
+- -- 7
+* -- 36
+:= -- 144
+add.period$ -- 15
+call.type$ -- 5
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 4
-duplicate$ -- 56
-empty$ -- 133
-format.name$ -- 10
-if$ -- 277
+cite$ -- 5
+duplicate$ -- 70
+empty$ -- 166
+format.name$ -- 12
+if$ -- 343
 int.to.chr$ -- 0
-int.to.str$ -- 4
+int.to.str$ -- 5
 missing$ -- 0
-newline$ -- 30
-num.names$ -- 8
-pop$ -- 34
+newline$ -- 35
+num.names$ -- 10
+pop$ -- 42
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 16
+skip$ -- 19
 stack$ -- 0
 substring$ -- 0
-swap$ -- 24
+swap$ -- 30
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 4
-width$ -- 5
-write$ -- 65
+while$ -- 5
+width$ -- 6
+write$ -- 79
 (There were 4 error messages)

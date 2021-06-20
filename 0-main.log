@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.12.27)  16 JUN 2021 23:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.12.27)  20 JUN 2021 21:25
 entering extended mode
 **./0-main.tex
 (0-main.tex
@@ -1002,10 +1002,10 @@ File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 
 
 
-]) [7]
+] [7]) [8]
 \openout2 = `4-conclusion.aux'.
 
- (4-conclusion.tex) [8
+ (4-conclusion.tex) [9
 
 
 
@@ -1015,12 +1015,12 @@ File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 
  (5-biblio.tex
 (0-main.bbl
-Underfull \hbox (badness 1038) in paragraph at lines 36--39
+Underfull \hbox (badness 1038) in paragraph at lines 12--15
 \T2A/cmr/m/n/12 er poker / Noam Brown, Tuomas Sandholm. ---  Science First 
 Release DOI:
  []
 
-)) [9
+)) [10
 
 
 
@@ -1035,10 +1035,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 16912 strings out of 479798
- 242634 string characters out of 2879540
- 731720 words of memory out of 3000000
- 33493 multiletter control sequences out of 15000+200000
+ 16919 strings out of 479798
+ 242723 string characters out of 2879540
+ 731753 words of memory out of 3000000
+ 33498 multiletter control sequences out of 15000+200000
  549730 words of font info for 64 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  93i,18n,98p,1318b,665s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1060,9 +1060,9 @@ ic/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
 :/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Fil
 es/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fon
 ts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on 0-main.pdf (11 pages, 295434 bytes).
+Output written on 0-main.pdf (12 pages, 299654 bytes).
 PDF statistics:
- 582 PDF objects out of 1000 (max. 8388607)
- 39 named destinations out of 1000 (max. 500000)
+ 593 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
  101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
