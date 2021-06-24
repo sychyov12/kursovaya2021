@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.12.27)  24 JUN 2021 06:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.12.27)  24 JUN 2021 14:45
 entering extended mode
 **./0-main.tex
 (0-main.tex
@@ -1003,57 +1003,57 @@ File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 
 
 ]
-<inc/img/kpst.png, id=142, 328.22626pt x 230.66174pt>
+<inc/img/kpst.png, id=144, 328.22626pt x 230.66174pt>
 File: inc/img/kpst.png Graphic file (type png)
 <use inc/img/kpst.png>
 Package pdftex.def Info: inc/img/kpst.png  used on input line 35.
 (pdftex.def)             Requested size: 273.14923pt x 191.95952pt.
-<inc/img/kpg.png, id=144, 299.31825pt x 171.039pt>
+<inc/img/kpg.png, id=146, 299.31825pt x 171.039pt>
 File: inc/img/kpg.png Graphic file (type png)
 <use inc/img/kpg.png>
 Package pdftex.def Info: inc/img/kpg.png  used on input line 41.
 (pdftex.def)             Requested size: 273.14923pt x 156.08679pt.
  [7 <./inc/img/kpst.png> <./inc/img/kpg.png>]
-<inc/img/d1r.png, id=154, 364.9635pt x 125.87025pt>
+<inc/img/d1r.png, id=156, 364.9635pt x 125.87025pt>
 File: inc/img/d1r.png Graphic file (type png)
 <use inc/img/d1r.png>
 Package pdftex.def Info: inc/img/d1r.png  used on input line 69.
 (pdftex.def)             Requested size: 273.14923pt x 94.21039pt.
-<inc/img/d1s.png, id=155, 124.0635pt x 61.4295pt>
+<inc/img/d1s.png, id=157, 124.0635pt x 61.4295pt>
 File: inc/img/d1s.png Graphic file (type png)
 <use inc/img/d1s.png>
 Package pdftex.def Info: inc/img/d1s.png  used on input line 75.
 (pdftex.def)             Requested size: 182.09486pt x 90.1634pt.
-<inc/img/d1g.png, id=156, 299.31825pt x 172.2435pt>
+<inc/img/d1g.png, id=158, 299.31825pt x 172.2435pt>
 File: inc/img/d1g.png Graphic file (type png)
 <use inc/img/d1g.png>
 Package pdftex.def Info: inc/img/d1g.png  used on input line 81.
 (pdftex.def)             Requested size: 273.14923pt x 157.18599pt.
 
 [8 <./inc/img/d1r.png>]
-<inc/img/d2r.png, id=163, 590.80725pt x 145.7445pt>
+<inc/img/d2r.png, id=165, 590.80725pt x 145.7445pt>
 File: inc/img/d2r.png Graphic file (type png)
 <use inc/img/d2r.png>
 Package pdftex.def Info: inc/img/d2r.png  used on input line 89.
 (pdftex.def)             Requested size: 364.19667pt x 89.84471pt.
-<inc/img/d2s.png, id=164, 212.59425pt x 67.452pt>
+<inc/img/d2s.png, id=166, 212.59425pt x 67.452pt>
 File: inc/img/d2s.png Graphic file (type png)
 <use inc/img/d2s.png>
 Package pdftex.def Info: inc/img/d2s.png  used on input line 95.
 (pdftex.def)             Requested size: 182.09486pt x 57.77908pt.
-<inc/img/d2g.png, id=165, 299.31825pt x 171.64125pt>
+<inc/img/d2g.png, id=167, 299.31825pt x 171.64125pt>
 File: inc/img/d2g.png Graphic file (type png)
 <use inc/img/d2g.png>
 Package pdftex.def Info: inc/img/d2g.png  used on input line 101.
 (pdftex.def)             Requested size: 273.14923pt x 156.63637pt.
  [9 <./inc/img/d1s.png> <./inc/img/d1g.png> <./inc/img/d2r.png> <./inc/img/d2s.
 png>]
-<inc/img/d3s.jpg, id=176, 393.47pt x 103.38625pt>
+<inc/img/d3s.jpg, id=178, 393.47pt x 103.38625pt>
 File: inc/img/d3s.jpg Graphic file (type jpg)
 <use inc/img/d3s.jpg>
 Package pdftex.def Info: inc/img/d3s.jpg  used on input line 109.
 (pdftex.def)             Requested size: 227.62206pt x 59.80788pt.
-<inc/img/d3g.png, id=177, 299.31825pt x 171.64125pt>
+<inc/img/d3g.png, id=179, 299.31825pt x 171.64125pt>
 File: inc/img/d3g.png Graphic file (type png)
 <use inc/img/d3g.png>
 Package pdftex.def Info: inc/img/d3g.png  used on input line 115.
@@ -1130,7 +1130,7 @@ Here is how much of TeX's memory you used:
  34265 multiletter control sequences out of 15000+200000
  551728 words of font info for 67 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 93i,18n,98p,1318b,2346s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 93i,18n,98p,1329b,2346s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\sychy\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss
 1095.pk> <C:\Users\sychy\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\
 lasx1095.pk> <C:\Users\sychy\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
@@ -1153,9 +1153,9 @@ public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfont
 s/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.p
 fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Progra
 m Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on 0-main.pdf (30 pages, 543589 bytes).
+Output written on 0-main.pdf (30 pages, 543856 bytes).
 PDF statistics:
- 1496 PDF objects out of 1728 (max. 8388607)
+ 1497 PDF objects out of 1728 (max. 8388607)
  604 named destinations out of 1000 (max. 500000)
  167 words of extra memory for PDF output out of 10000 (max. 10000000)
 
