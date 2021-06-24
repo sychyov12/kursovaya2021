@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.12.27)  20 JUN 2021 21:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.12.27)  24 JUN 2021 06:58
 entering extended mode
 **./0-main.tex
 (0-main.tex
@@ -734,7 +734,7 @@ File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__pdf_internal_box=\box57
 )
 (0-main.aux (11-title-page.aux) (2-intro.aux) (31-chapter-one.aux)
-(32-chapter-two.aux) (4-conclusion.aux) (5-biblio.aux))
+(32-chapter-two.aux) (4-conclusion.aux) (5-biblio.aux) (61-appendix.aux))
 \openout1 = `0-main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -1002,10 +1002,66 @@ File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 
 
 
-] [7]) [8]
+]
+<inc/img/kpst.png, id=142, 328.22626pt x 230.66174pt>
+File: inc/img/kpst.png Graphic file (type png)
+<use inc/img/kpst.png>
+Package pdftex.def Info: inc/img/kpst.png  used on input line 35.
+(pdftex.def)             Requested size: 273.14923pt x 191.95952pt.
+<inc/img/kpg.png, id=144, 299.31825pt x 171.039pt>
+File: inc/img/kpg.png Graphic file (type png)
+<use inc/img/kpg.png>
+Package pdftex.def Info: inc/img/kpg.png  used on input line 41.
+(pdftex.def)             Requested size: 273.14923pt x 156.08679pt.
+ [7 <./inc/img/kpst.png> <./inc/img/kpg.png>]
+<inc/img/d1r.png, id=154, 364.9635pt x 125.87025pt>
+File: inc/img/d1r.png Graphic file (type png)
+<use inc/img/d1r.png>
+Package pdftex.def Info: inc/img/d1r.png  used on input line 69.
+(pdftex.def)             Requested size: 273.14923pt x 94.21039pt.
+<inc/img/d1s.png, id=155, 124.0635pt x 61.4295pt>
+File: inc/img/d1s.png Graphic file (type png)
+<use inc/img/d1s.png>
+Package pdftex.def Info: inc/img/d1s.png  used on input line 75.
+(pdftex.def)             Requested size: 182.09486pt x 90.1634pt.
+<inc/img/d1g.png, id=156, 299.31825pt x 172.2435pt>
+File: inc/img/d1g.png Graphic file (type png)
+<use inc/img/d1g.png>
+Package pdftex.def Info: inc/img/d1g.png  used on input line 81.
+(pdftex.def)             Requested size: 273.14923pt x 157.18599pt.
+
+[8 <./inc/img/d1r.png>]
+<inc/img/d2r.png, id=163, 590.80725pt x 145.7445pt>
+File: inc/img/d2r.png Graphic file (type png)
+<use inc/img/d2r.png>
+Package pdftex.def Info: inc/img/d2r.png  used on input line 89.
+(pdftex.def)             Requested size: 364.19667pt x 89.84471pt.
+<inc/img/d2s.png, id=164, 212.59425pt x 67.452pt>
+File: inc/img/d2s.png Graphic file (type png)
+<use inc/img/d2s.png>
+Package pdftex.def Info: inc/img/d2s.png  used on input line 95.
+(pdftex.def)             Requested size: 182.09486pt x 57.77908pt.
+<inc/img/d2g.png, id=165, 299.31825pt x 171.64125pt>
+File: inc/img/d2g.png Graphic file (type png)
+<use inc/img/d2g.png>
+Package pdftex.def Info: inc/img/d2g.png  used on input line 101.
+(pdftex.def)             Requested size: 273.14923pt x 156.63637pt.
+ [9 <./inc/img/d1s.png> <./inc/img/d1g.png> <./inc/img/d2r.png> <./inc/img/d2s.
+png>]
+<inc/img/d3s.jpg, id=176, 393.47pt x 103.38625pt>
+File: inc/img/d3s.jpg Graphic file (type jpg)
+<use inc/img/d3s.jpg>
+Package pdftex.def Info: inc/img/d3s.jpg  used on input line 109.
+(pdftex.def)             Requested size: 227.62206pt x 59.80788pt.
+<inc/img/d3g.png, id=177, 299.31825pt x 171.64125pt>
+File: inc/img/d3g.png Graphic file (type png)
+<use inc/img/d3g.png>
+Package pdftex.def Info: inc/img/d3g.png  used on input line 115.
+(pdftex.def)             Requested size: 273.14923pt x 156.63637pt.
+) [10 <./inc/img/d2g.png> <./inc/img/d3s.jpg> <./inc/img/d3g.png>]
 \openout2 = `4-conclusion.aux'.
 
- (4-conclusion.tex) [9
+ (4-conclusion.tex) [11
 
 
 
@@ -1013,56 +1069,93 @@ File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 ]
 \openout2 = `5-biblio.aux'.
 
- (5-biblio.tex
-(0-main.bbl
+ (5-biblio.tex (0-main.bbl
 Underfull \hbox (badness 1038) in paragraph at lines 12--15
 \T2A/cmr/m/n/12 er poker / Noam Brown, Tuomas Sandholm. ---  Science First 
 Release DOI:
  []
 
-)) [10
+)) [12
 
 
 
 
-] (0-main.aux (11-title-page.aux) (2-intro.aux) (31-chapter-one.aux)
-(32-chapter-two.aux) (4-conclusion.aux) (5-biblio.aux))
+]
+\openout2 = `61-appendix.aux'.
+
+ (61-appendix.tex
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 2.
+LaTeX Font Info:    Trying to load font information for T2A+cmss on input line 
+2.
+
+(C:\Users\sychy\AppData\Roaming\MiKTeX\tex/latex/cyrillic\t2acmss.fd
+File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+(C:\Users\sychy\AppData\Roaming\MiKTeX\tex/latex/cyrillic\cp1251.def
+File: cp1251.def 2014/10/28 v1.0d Input encoding file
+)
+(inc/src/appendix/Program.cs [13
+
+
+
+
+]
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
+52.
+
+("C:\Program Files\MiKTeX\tex/latex/base\ts1cmss.fd"
+File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+) [14] [15] [16] [17]
+[18] [19] [20]) [21]
+(C:\Users\sychy\AppData\Roaming\MiKTeX\tex/latex/cyrillic\cp1251.def
+File: cp1251.def 2014/10/28 v1.0d Input encoding file
+)
+(inc/src/appendix/Program2.cs [22
+
+] [23] [24] [25] [26] [27])) [28] (0-main.aux
+(11-title-page.aux) (2-intro.aux) (31-chapter-one.aux) (32-chapter-two.aux)
+(4-conclusion.aux) (5-biblio.aux) (61-appendix.aux))
 Package rerunfilecheck Info: File `0-main.out' has not changed.
-(rerunfilecheck)             Checksum: B29F401EDF5786E5D3CEADED22F8C3CB;2757.
+(rerunfilecheck)             Checksum: 8FC7D418EC869DC16F3208A02C2C5941;2977.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 16919 strings out of 479798
- 242723 string characters out of 2879540
- 731753 words of memory out of 3000000
- 33498 multiletter control sequences out of 15000+200000
- 549730 words of font info for 64 fonts, out of 3000000 for 9000
+ 18295 strings out of 479798
+ 262010 string characters out of 2879540
+ 1044681 words of memory out of 3000000
+ 34265 multiletter control sequences out of 15000+200000
+ 551728 words of font info for 67 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 93i,18n,98p,1318b,665s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\sychy\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati12
-00.pk> <C:\Users\sychy\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
-bx1200.pk> <C:\Users\sychy\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
-0\labx1440.pk> <C:\Users\sychy\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/d
-pi600\larm1200.pk> <C:\Users\sychy\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t
-2a/dpi600\labx1095.pk> <C:\Users\sychy\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
-lh-t2a/dpi600\larm1000.pk> <C:\Users\sychy\AppData\Local\MiKTeX\fonts/pk/ljfour
-/lh/lh-t2a/dpi600\larm1440.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cmextra/
-cmex8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C
-:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Fil
-es/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fon
-ts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
-:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Fil
-es/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fon
-ts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on 0-main.pdf (12 pages, 299654 bytes).
+ 93i,18n,98p,1318b,2346s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\sychy\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss
+1095.pk> <C:\Users\sychy\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\
+lasx1095.pk> <C:\Users\sychy\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
+600\lass1095.pk> <C:\Users\sychy\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
+/dpi600\larm0600.pk> <C:\Users\sychy\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
+-t2a/dpi600\lati1200.pk> <C:\Users\sychy\AppData\Local\MiKTeX\fonts/pk/ljfour/l
+h/lh-t2a/dpi600\labx1200.pk> <C:\Users\sychy\AppData\Local\MiKTeX\fonts/pk/ljfo
+ur/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\sychy\AppData\Local\MiKTeX\fonts/pk/
+ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\sychy\AppData\Local\MiKTeX\fonts
+/pk/ljfour/lh/lh-t2a/dpi600\labx1095.pk> <C:\Users\sychy\AppData\Local\MiKTeX\f
+onts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\sychy\AppData\Local\MiKT
+eX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk><C:/Program Files/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public
+/amsfonts/cmextra/cmex8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.p
+fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Progra
+m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.p
+fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Progra
+m Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on 0-main.pdf (30 pages, 543589 bytes).
 PDF statistics:
- 593 PDF objects out of 1000 (max. 8388607)
- 41 named destinations out of 1000 (max. 500000)
- 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1496 PDF objects out of 1728 (max. 8388607)
+ 604 named destinations out of 1000 (max. 500000)
+ 167 words of extra memory for PDF output out of 10000 (max. 10000000)
 
