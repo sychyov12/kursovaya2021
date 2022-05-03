@@ -7,20 +7,31 @@
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
+\bibitem{RegretMatching}
+\selectlanguageifdefined{english}
+\BibEmph{Hart,~Sergiu}. A simple adaptive procedure leading to correlated
+  equilibrium~/ Sergiu~Hart, Andreu~Mas-Colell. ---
+\newblock Econometrica, 68(5), September 2000, pages 1127–1150.
+
 \bibitem{aay2400}
 \selectlanguageifdefined{english}
 \BibEmph{Brown,~Noam}. Supplementary Materials for Superhuman AI for
   multiplayer poker~/ Noam~Brown, Tuomas~Sandholm. ---
 \newblock Science First Release DOI: 10.1126/science.aay2400, 11 July 2019.
 
-\bibitem{MCCFR}
+\bibitem{Spengler}
 \selectlanguageifdefined{english}
-\BibEmph{Marc~Lanctot~Kevin~Waugh,~Martin Zinkevich Michael~Bowling}. Monte
-  carlo sampling for regret minimization in extensive games. In Y. Bengio, D.
-  Schuurmans, J. Lafferty, C. K. I. Williams, and A. Culotta, editors, Advances
-  in Neural Information Processing Systems 22~/ Martin Zinkevich
-  Michael~Bowling~Marc~Lanctot, Kevin~Waugh. ---
-\newblock MIT Press, Cambridge, 2009, pages 1078–1086.
+\BibEmph{Spengler,~D.} Detection and Deterrence in the Economics of Corruption:
+  a Game Theoretic Analysis and some Experimental Evidence.~/ D.~Spengler. ---
+\newblock University of York, 2014.
+
+\bibitem{Kumacheva}
+\selectlanguageifdefined{english}
+\BibEmph{Kumacheva,~S.~Sh.} DeThe Strategy of Tax Control in Conditions of
+  Possible Mistakes and Corruption of Inspectors. Contributions to Game
+  Theory and Management (Petrosyan, L. A., Zenkevich, N. A. eds), Vol. 6~/
+  S.~Sh.~Kumacheva. ---
+\newblock pp. 264–273. St. Petersburg University, St. Petersburg, 2013.
 
 \bibitem{NIPS07cfr}
 \selectlanguageifdefined{english}
@@ -31,11 +42,14 @@
   Michael~Johanson. ---
 \newblock MIT Press, Cambridge, 2008, pages 1729–1736.
 
-\bibitem{RegretMatching}
+\bibitem{MCCFR}
 \selectlanguageifdefined{english}
-\BibEmph{Hart,~Sergiu}. A simple adaptive procedure leading to correlated
-  equilibrium~/ Sergiu~Hart, Andreu~Mas-Colell. ---
-\newblock Econometrica, 68(5), September 2000, pages 1127–1150.
+\BibEmph{Marc~Lanctot~Kevin~Waugh,~Martin Zinkevich Michael~Bowling}. Monte
+  carlo sampling for regret minimization in extensive games. In Y. Bengio, D.
+  Schuurmans, J. Lafferty, C. K. I. Williams, and A. Culotta, editors, Advances
+  in Neural Information Processing Systems 22~/ Martin Zinkevich
+  Michael~Bowling~Marc~Lanctot, Kevin~Waugh. ---
+\newblock MIT Press, Cambridge, 2009, pages 1078–1086.
 
 \bibitem{KuhnPoker}
 \selectlanguageifdefined{english}
