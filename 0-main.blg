@@ -27,7 +27,7 @@ Too many commas in name 1 of "Marc Lanctot, Kevin Waugh, Martin Zinkevich, Micha
 while executing---line 1418 of file gost780u.bst
 You've used 7 entries,
             2674 wiz_defined-function locations,
-            683 strings with 6640 characters,
+            683 strings with 6680 characters,
 and the built_in function-call counts, 1696 in all, are:
 = -- 216
 > -- 36

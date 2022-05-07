@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.9)  3 MAY 2022 22:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.9)  7 MAY 2022 22:32
 entering extended mode
 **./0-main.tex
 (0-main.tex
@@ -738,8 +738,8 @@ File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count312
 \l__pdf_internal_box=\box61
 ) (0-main.aux
-(11-title-page.aux) (2-intro.aux) (31-chapter-one.aux) (4-conclusion.aux)
-(5-biblio.aux) (61-appendix.aux))
+(11-title-page.aux) (2-intro.aux) (31-chapter-one.aux) (32-chapter-two.aux)
+(33-chapter-three.aux) (4-conclusion.aux) (5-biblio.aux) (61-appendix.aux))
 \openout1 = `0-main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -1003,9 +1003,29 @@ cmm/m/it/12 \OT1/cmr/m/n/12 ) =
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 ) [3] [4])
 [5]
+\openout2 = `32-chapter-two.aux'.
+
+ (32-chapter-two.tex) [6
+
+
+
+
+]
+\openout2 = `33-chapter-three.aux'.
+
+ (33-chapter-three.tex
+
+LaTeX Warning: Reference `fig:figkpg' on page 7 undefined on input line 21.
+
+) [7
+
+
+
+
+]
 \openout2 = `4-conclusion.aux'.
 
- (4-conclusion.tex) [6
+ (4-conclusion.tex) [8
 
 
 
@@ -1014,12 +1034,24 @@ File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 \openout2 = `5-biblio.aux'.
 
  (5-biblio.tex (0-main.bbl
-Underfull \hbox (badness 1038) in paragraph at lines 18--21
+Underfull \hbox (badness 4205) in paragraph at lines 26--30
+[]\T2A/cmr/m/it/12 Orlov I. M., Kumacheva S. Sh. \T2A/cmr/m/n/12 Hierarchical M
+odel of Corruption:
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 26--30
+\T2A/cmr/m/n/12 Game theoretic Approach [in Russian]. Mathematical Control Theo
+ry and Its
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 57--60
 \T2A/cmr/m/n/12 er poker / Noam Brown, Tuomas Sandholm. ---  Science First 
 Release DOI:
  []
 
-)) [7
+)) [9
 
 
 
@@ -1027,29 +1059,33 @@ Release DOI:
 ]
 \openout2 = `61-appendix.aux'.
 
- (61-appendix.tex [8
+ (61-appendix.tex [10
 
 
 
 
-]) [9
+]) [11
 
-] (0-main.aux (11-title-page.aux) (2-intro.aux)
-(31-chapter-one.aux) (4-conclusion.aux) (5-biblio.aux) (61-appendix.aux))
+] (0-main.aux (11-title-page.aux) (2-intro.aux) (31-chapter-one.aux) (32-chapte
+r-two.aux) (33-chapter-three.aux)
+(4-conclusion.aux) (5-biblio.aux) (61-appendix.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `0-main.out' has not changed.
-(rerunfilecheck)             Checksum: 18B03D772EE77AFA5CE559B82774EE2E;1864.
+(rerunfilecheck)             Checksum: 191761594970177AA0BC9BD57FCEE8D3;4902.
  ) 
 Here is how much of TeX's memory you used:
- 17134 strings out of 478927
- 249949 string characters out of 2862392
- 757959 words of memory out of 3000000
- 34575 multiletter control sequences out of 15000+600000
+ 17175 strings out of 478927
+ 250872 string characters out of 2862392
+ 760521 words of memory out of 3000000
+ 34593 multiletter control sequences out of 15000+600000
  418072 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 86i,18n,94p,1543b,666s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 86i,18n,94p,1884b,666s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\Roman\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati12
 00.pk> <C:\Users\Roman\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
 bx1200.pk> <C:\Users\Roman\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
@@ -1068,9 +1104,9 @@ ic/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
 :/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Fil
 es/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fon
 ts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on 0-main.pdf (11 pages, 293649 bytes).
+Output written on 0-main.pdf (13 pages, 308878 bytes).
 PDF statistics:
- 580 PDF objects out of 1000 (max. 8388607)
- 40 named destinations out of 1000 (max. 500000)
- 85 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 641 PDF objects out of 1000 (max. 8388607)
+ 49 named destinations out of 1000 (max. 500000)
+ 141 words of extra memory for PDF output out of 10000 (max. 10000000)
 
