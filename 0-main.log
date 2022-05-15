@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.9)  10 MAY 2022 00:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.9)  16 MAY 2022 01:05
 entering extended mode
 **./0-main.tex
 (0-main.tex
@@ -1022,19 +1022,61 @@ Package pdftex.def Info: inc/img/ef1.png  used on input line 34.
  [7 <./inc/img/ef1.png>]) [8]
 \openout2 = `33-chapter-three.aux'.
 
- (33-chapter-three.tex
-
-LaTeX Warning: Reference `fig:figkpg' on page 9 undefined on input line 21.
-
-) [9
+ (33-chapter-three.tex [9
 
 
 
 
-]
+] [10]
+<inc/img/c3th11.png, id=212, 455.301pt x 567.92175pt>
+File: inc/img/c3th11.png Graphic file (type png)
+<use inc/img/c3th11.png>
+Package pdftex.def Info: inc/img/c3th11.png  used on input line 108.
+(pdftex.def)             Requested size: 409.71692pt x 511.08153pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<inc/img/c3th12.png, id=215, 457.71pt x 566.71725pt>
+File: inc/img/c3th12.png Graphic file (type png)
+<use inc/img/c3th12.png>
+Package pdftex.def Info: inc/img/c3th12.png  used on input line 119.
+(pdftex.def)             Requested size: 409.71692pt x 507.31688pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<inc/img/c3e1.png, id=219, 499.3857pt x 287.6346pt>
+File: inc/img/c3e1.png Graphic file (type png)
+<use inc/img/c3e1.png>
+Package pdftex.def Info: inc/img/c3e1.png  used on input line 130.
+(pdftex.def)             Requested size: 364.19667pt x 209.7696pt.
+[11]
+<inc/img/c3th21.png, id=231, 428.802pt x 172.2435pt>
+File: inc/img/c3th21.png Graphic file (type png)
+<use inc/img/c3th21.png>
+Package pdftex.def Info: inc/img/c3th21.png  used on input line 153.
+(pdftex.def)             Requested size: 364.19667pt x 146.29727pt.
+<inc/img/c3ex2alpha.png, id=232, 499.3857pt x 284.0211pt>
+File: inc/img/c3ex2alpha.png Graphic file (type png)
+<use inc/img/c3ex2alpha.png>
+Package pdftex.def Info: inc/img/c3ex2alpha.png  used on input line 162.
+(pdftex.def)             Requested size: 364.19667pt x 207.13432pt.
+ [12 <./inc/img/c3e1.png> <./inc/img/c3th21.png>]
+<inc/img/c3ex2beta.png, id=241, 499.3857pt x 284.0211pt>
+File: inc/img/c3ex2beta.png Graphic file (type png)
+<use inc/img/c3ex2beta.png>
+Package pdftex.def Info: inc/img/c3ex2beta.png  used on input line 169.
+(pdftex.def)             Requested size: 364.19667pt x 207.13432pt.
+<inc/img/c3ex2gamma.png, id=242, 499.3857pt x 284.0211pt>
+File: inc/img/c3ex2gamma.png Graphic file (type png)
+<use inc/img/c3ex2gamma.png>
+Package pdftex.def Info: inc/img/c3ex2gamma.png  used on input line 176.
+(pdftex.def)             Requested size: 364.19667pt x 207.13432pt.
+ [13 <./inc/img/c3ex2alpha.png> <./inc/img/c3ex2beta.png>]) [14 <./inc/img/c3ex
+2gamma.png>] [15 <./inc/img/c3th11.png>] [16 <./inc/img/c3th12.png>]
 \openout2 = `4-conclusion.aux'.
 
- (4-conclusion.tex) [10
+ (4-conclusion.tex) [17
 
 
 
@@ -1042,7 +1084,8 @@ LaTeX Warning: Reference `fig:figkpg' on page 9 undefined on input line 21.
 ]
 \openout2 = `5-biblio.aux'.
 
- (5-biblio.tex (0-main.bbl
+
+(5-biblio.tex (0-main.bbl
 Underfull \hbox (badness 4205) in paragraph at lines 26--30
 []\T2A/cmr/m/it/12 Orlov I. M., Kumacheva S. Sh. \T2A/cmr/m/n/12 Hierarchical M
 odel of Corruption:
@@ -1060,7 +1103,7 @@ Underfull \hbox (badness 1038) in paragraph at lines 57--60
 Release DOI:
  []
 
-)) [11
+)) [18
 
 
 
@@ -1068,12 +1111,12 @@ Release DOI:
 ]
 \openout2 = `61-appendix.aux'.
 
- (61-appendix.tex [12
+ (61-appendix.tex [19
 
 
 
 
-]) [13
+]) [20
 
 ] (0-main.aux (11-title-page.aux)
 (2-intro.aux) (31-chapter-one.aux) (32-chapter-two.aux) (33-chapter-three.aux)
@@ -1081,17 +1124,14 @@ Release DOI:
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `0-main.out' has not changed.
-(rerunfilecheck)             Checksum: CDF1BCC03D072B38B3A03DBC97CA1116;4878.
+(rerunfilecheck)             Checksum: 94FDD701FDE297E0A47DD20128CBE17A;4859.
  ) 
 Here is how much of TeX's memory you used:
- 17781 strings out of 478927
- 257805 string characters out of 2862392
- 761574 words of memory out of 3000000
- 35180 multiletter control sequences out of 15000+600000
+ 17899 strings out of 478927
+ 260258 string characters out of 2862392
+ 765777 words of memory out of 3000000
+ 35274 multiletter control sequences out of 15000+600000
  418072 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  86i,18n,94p,2082b,666s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1113,9 +1153,9 @@ ic/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
 :/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Fil
 es/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fon
 ts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on 0-main.pdf (15 pages, 352446 bytes).
+Output written on 0-main.pdf (22 pages, 544442 bytes).
 PDF statistics:
- 679 PDF objects out of 1000 (max. 8388607)
- 61 named destinations out of 1000 (max. 500000)
- 146 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 752 PDF objects out of 1000 (max. 8388607)
+ 78 named destinations out of 1000 (max. 500000)
+ 181 words of extra memory for PDF output out of 10000 (max. 10000000)
 
