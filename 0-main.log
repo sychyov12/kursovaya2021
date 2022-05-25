@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.9)  21 MAY 2022 15:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.9)  25 MAY 2022 23:36
 entering extended mode
 **./0-main.tex
 (0-main.tex
@@ -981,7 +981,12 @@ LaTeX Font Warning: Font shape `PU/cmr/m/up' undefined
 \tf@toc=\write4
 \openout4 = `0-main.toc'.
 
- [0
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.24 	\clearpage
+                 [2
 
 
 \FN@pp@footnotehinttrue 
@@ -991,23 +996,18 @@ LaTeX Font Warning: Font shape `PU/cmr/m/up' undefined
 \openout2 = `2-intro.aux'.
 
  (2-intro.tex)pdfTeX warning (ext4): destination with the same identifier (name
-{page.1}) has been already used, duplicate ignored
+{page.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.27 	\include{2-intro}
-                        [1
+                        [3
 
 
 
 ]
 \openout2 = `31-chapter-one.aux'.
 
- (31-chapter-one.texpdfTeX warning (ext4): destination with the same identifier
- (name{page.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.22 
-      [2
+ (31-chapter-one.tex [4
 
 
 
@@ -1021,42 +1021,50 @@ cmm/m/it/12 \OT1/cmr/m/n/12 ) =
 
 (C:\Users\Roman\AppData\Roaming\MiKTeX\tex/latex/ucs\uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-)pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has
- been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.66 \end{equation}
-                    [3]
-
-LaTeX Warning: Citation `a' on page 4 undefined on input line 70.
-
-[4]) [5]
+) [5] [6])
+[7]
 \openout2 = `32-chapter-two.aux'.
 
  (32-chapter-two.tex
 (C:\Users\Roman\AppData\Roaming\MiKTeX\tex/latex/ucs\uni-34.def
 File: uni-34.def 2013/05/13 UCS: Unicode data U+2200..U+22FF
-) [6
+) [8
 
 
 
 
 ]
-<inc/img/ef1.png, id=179, 837.72975pt x 479.391pt>
+<inc/img/ef1.png, id=182, 837.72975pt x 479.391pt>
 File: inc/img/ef1.png Graphic file (type png)
 <use inc/img/ef1.png>
 Package pdftex.def Info: inc/img/ef1.png  used on input line 34.
 (pdftex.def)             Requested size: 409.71692pt x 234.45743pt.
- [7 <./inc/img/ef1.png>]) [8]
+ [9 <./inc/img/ef1.png>] [10] [11] [12]
+<inc/img/ef21.png, id=226, 677.53125pt x 502.87875pt>
+File: inc/img/ef21.png Graphic file (type png)
+<use inc/img/ef21.png>
+Package pdftex.def Info: inc/img/ef21.png  used on input line 130.
+(pdftex.def)             Requested size: 409.71692pt x 304.10829pt.
+<inc/img/ef22.png, id=227, 681.747pt x 507.69675pt>
+File: inc/img/ef22.png Graphic file (type png)
+<use inc/img/ef22.png>
+Package pdftex.def Info: inc/img/ef22.png  used on input line 136.
+(pdftex.def)             Requested size: 409.71692pt x 305.12395pt.
+ [13 <./inc/img/ef21.png>]
+Overfull \hbox (15.73834pt too wide) detected at line 208
+[]
+ []
+
+[14 <./inc/img/ef22.png>]) [15]
 \openout2 = `33-chapter-three.aux'.
 
- (33-chapter-three.tex [9
+ (33-chapter-three.tex [16
 
 
 
 
-] [10]
-<inc/img/c3th11.png, id=224, 450.483pt x 566.71725pt>
+] [17]
+<inc/img/c3th11.png, id=263, 450.483pt x 566.71725pt>
 File: inc/img/c3th11.png Graphic file (type png)
 <use inc/img/c3th11.png>
 Package pdftex.def Info: inc/img/c3th11.png  used on input line 108.
@@ -1065,7 +1073,7 @@ Package pdftex.def Info: inc/img/c3th11.png  used on input line 108.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<inc/img/c3th12.png, id=227, 445.665pt x 578.16pt>
+<inc/img/c3th12.png, id=266, 445.665pt x 578.16pt>
 File: inc/img/c3th12.png Graphic file (type png)
 <use inc/img/c3th12.png>
 Package pdftex.def Info: inc/img/c3th12.png  used on input line 119.
@@ -1073,38 +1081,38 @@ Package pdftex.def Info: inc/img/c3th12.png  used on input line 119.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<inc/img/c3e1.png, id=231, 499.3857pt x 287.6346pt>
+<inc/img/c3e1.png, id=270, 499.3857pt x 287.6346pt>
 File: inc/img/c3e1.png Graphic file (type png)
 <use inc/img/c3e1.png>
 Package pdftex.def Info: inc/img/c3e1.png  used on input line 130.
 (pdftex.def)             Requested size: 364.19667pt x 209.7696pt.
-[11]
-<inc/img/c3th21.png, id=242, 443.85825pt x 187.29974pt>
+[18]
+<inc/img/c3th21.png, id=281, 443.85825pt x 187.29974pt>
 File: inc/img/c3th21.png Graphic file (type png)
 <use inc/img/c3th21.png>
 Package pdftex.def Info: inc/img/c3th21.png  used on input line 153.
 (pdftex.def)             Requested size: 364.19667pt x 153.6868pt.
-<inc/img/c3ex2alpha.png, id=243, 499.3857pt x 284.0211pt>
+<inc/img/c3ex2alpha.png, id=282, 499.3857pt x 284.0211pt>
 File: inc/img/c3ex2alpha.png Graphic file (type png)
 <use inc/img/c3ex2alpha.png>
 Package pdftex.def Info: inc/img/c3ex2alpha.png  used on input line 162.
 (pdftex.def)             Requested size: 364.19667pt x 207.13432pt.
- [12 <./inc/img/c3e1.png> <./inc/img/c3th21.png>]
-<inc/img/c3ex2beta.png, id=252, 499.3857pt x 284.0211pt>
+ [19 <./inc/img/c3e1.png> <./inc/img/c3th21.png>]
+<inc/img/c3ex2beta.png, id=291, 499.3857pt x 284.0211pt>
 File: inc/img/c3ex2beta.png Graphic file (type png)
 <use inc/img/c3ex2beta.png>
 Package pdftex.def Info: inc/img/c3ex2beta.png  used on input line 169.
 (pdftex.def)             Requested size: 364.19667pt x 207.13432pt.
-<inc/img/c3ex2gamma.png, id=253, 499.3857pt x 284.0211pt>
+<inc/img/c3ex2gamma.png, id=292, 499.3857pt x 284.0211pt>
 File: inc/img/c3ex2gamma.png Graphic file (type png)
 <use inc/img/c3ex2gamma.png>
 Package pdftex.def Info: inc/img/c3ex2gamma.png  used on input line 176.
 (pdftex.def)             Requested size: 364.19667pt x 207.13432pt.
- [13 <./inc/img/c3ex2alpha.png> <./inc/img/c3ex2beta.png>]) [14 <./inc/img/c3ex
-2gamma.png>] [15 <./inc/img/c3th11.png>] [16 <./inc/img/c3th12.png>]
+ [20 <./inc/img/c3ex2alpha.png> <./inc/img/c3ex2beta.png>]) [21 <./inc/img/c3ex
+2gamma.png>] [22 <./inc/img/c3th11.png>] [23 <./inc/img/c3th12.png>]
 \openout2 = `4-conclusion.aux'.
 
- (4-conclusion.tex) [17
+ (4-conclusion.tex) [24
 
 
 
@@ -1114,24 +1122,12 @@ Package pdftex.def Info: inc/img/c3ex2gamma.png  used on input line 176.
 
 
 (5-biblio.tex (0-main.bbl
-Underfull \hbox (badness 4205) in paragraph at lines 26--30
-[]\T2A/cmr/m/it/12 Orlov I. M., Kumacheva S. Sh. \T2A/cmr/m/n/12 Hierarchical M
-odel of Corruption:
- []
-
-
-Underfull \hbox (badness 1342) in paragraph at lines 26--30
-\T2A/cmr/m/n/12 Game theoretic Approach [in Russian]. Mathematical Control Theo
-ry and Its
- []
-
-
-Underfull \hbox (badness 1038) in paragraph at lines 57--60
+Underfull \hbox (badness 1038) in paragraph at lines 64--67
 \T2A/cmr/m/n/12 er poker / Noam Brown, Tuomas Sandholm. ---  Science First 
 Release DOI:
  []
 
-)) [18
+)) [25
 
 
 
@@ -1139,12 +1135,12 @@ Release DOI:
 ]
 \openout2 = `61-appendix.aux'.
 
- (61-appendix.tex [19
+ (61-appendix.tex [26
 
 
 
 
-]) [20
+]) [27
 
 ] (0-main.aux (annotation.aux) (abstract.aux) (11-title-page.aux) (2-intro.aux)
  (31-chapter-one.aux) (32-chapter-two.aux)
@@ -1152,17 +1148,14 @@ Release DOI:
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `0-main.out' has not changed.
-(rerunfilecheck)             Checksum: A3A42460E944037B1F8B437A9E1A9DAE;4870.
+(rerunfilecheck)             Checksum: 4345F595D8E8B901833F64EB1047F532;4870.
  ) 
 Here is how much of TeX's memory you used:
- 17928 strings out of 478927
- 260925 string characters out of 2862392
- 767139 words of memory out of 3000000
- 35287 multiletter control sequences out of 15000+600000
+ 17966 strings out of 478927
+ 261567 string characters out of 2862392
+ 779361 words of memory out of 3000000
+ 35314 multiletter control sequences out of 15000+600000
  418877 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  86i,18n,94p,2082b,634s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1186,9 +1179,9 @@ b><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program
  Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX
 /fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX/fonts/
 type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on 0-main.pdf (24 pages, 562213 bytes).
+Output written on 0-main.pdf (29 pages, 693629 bytes).
 PDF statistics:
- 806 PDF objects out of 1000 (max. 8388607)
- 79 named destinations out of 1000 (max. 500000)
- 181 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 848 PDF objects out of 1000 (max. 8388607)
+ 88 named destinations out of 1000 (max. 500000)
+ 191 words of extra memory for PDF output out of 10000 (max. 10000000)
 

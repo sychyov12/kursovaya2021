@@ -19,14 +19,14 @@
   Possible Mistakes and Corruption of Inspectors. Contributions to Game The ory
   and Management (Petrosyan, L. A., Zenkevich, N. A. eds), Vol. 6~/
   S.~Sh.~Kumacheva. ---
-\newblock pp. 264–273. St. Petersburg University, St. Petersburg, 2013.
+\newblock St. Petersburg University, 2013, pp. 264–273.
 
 \bibitem{Orlov}
 \selectlanguageifdefined{russian}
-\BibEmph{Orlov I.~M.,~Kumacheva S.~Sh.} Hierarchical Model of Corruption:
-  Game theoretic Approach [in Russian]. Mathematical Control Theory and Its
-  Applications Proceedings~/ Kumacheva S.~Sh.~Orlov I.~M. ---
-\newblock pp. 269–271. CSRI ELEKTROPRIBOR, St. Petersburg, 2020.
+\BibEmph{Orlov I.~M.,~Kumacheva S.~Sh.} Hierarchical Model of Corruption: Game
+  theoretic Approach. Mathematical Control Theory and Its Applications
+  Proceedings~/ Kumacheva S.~Sh.~Orlov I.~M. ---
+\newblock CSRI ELEKTROPRIBOR, St. Petersburg, 2020, pp. 269–271.
 
 \bibitem{NIPS07cfr}
 \selectlanguageifdefined{english}
@@ -51,6 +51,13 @@
 \BibEmph{Hart,~Sergiu}. A simple adaptive procedure leading to correlated
   equilibrium~/ Sergiu~Hart, Andreu~Mas-Colell. ---
 \newblock Econometrica, 68(5), September 2000, pages 1127–1150.
+
+\bibitem{RGibson}
+\selectlanguageifdefined{english}
+\BibEmph{Gibson,~R.} Regret minimization in games and the development of
+  champion multiplayer computer poker-playing agents, Ph.D. thesis~/ R.~Gibson.
+  ---
+\newblock University of Alberta, 2014.
 
 \bibitem{aay2400}
 \selectlanguageifdefined{english}
