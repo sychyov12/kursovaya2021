@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.9)  25 MAY 2022 23:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.9)  26 MAY 2022 23:03
 entering extended mode
 **./0-main.tex
 (0-main.tex
@@ -739,8 +739,14 @@ File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
 \l__pdf_internal_box=\box61
 ) (0-main.aux
 (annotation.aux) (abstract.aux) (11-title-page.aux) (2-intro.aux)
-(31-chapter-one.aux) (32-chapter-two.aux) (33-chapter-three.aux)
-(4-conclusion.aux) (5-biblio.aux) (61-appendix.aux))
+(31-chapter-one.aux) (32-chapter-two.aux) (33-chapter-three.aux
+
+LaTeX Warning: Label `tbl:s1_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:c3e1' multiply defined.
+
+) (4-conclusion.aux) (5-biblio.aux) (61-appendix.aux))
 \openout1 = `0-main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -1040,12 +1046,12 @@ File: inc/img/ef1.png Graphic file (type png)
 Package pdftex.def Info: inc/img/ef1.png  used on input line 34.
 (pdftex.def)             Requested size: 409.71692pt x 234.45743pt.
  [9 <./inc/img/ef1.png>] [10] [11] [12]
-<inc/img/ef21.png, id=226, 677.53125pt x 502.87875pt>
+<inc/img/ef21.png, id=227, 677.53125pt x 502.87875pt>
 File: inc/img/ef21.png Graphic file (type png)
 <use inc/img/ef21.png>
 Package pdftex.def Info: inc/img/ef21.png  used on input line 130.
 (pdftex.def)             Requested size: 409.71692pt x 304.10829pt.
-<inc/img/ef22.png, id=227, 681.747pt x 507.69675pt>
+<inc/img/ef22.png, id=228, 681.747pt x 507.69675pt>
 File: inc/img/ef22.png Graphic file (type png)
 <use inc/img/ef22.png>
 Package pdftex.def Info: inc/img/ef22.png  used on input line 136.
@@ -1064,55 +1070,66 @@ Overfull \hbox (15.73834pt too wide) detected at line 208
 
 
 ] [17]
-<inc/img/c3th11.png, id=263, 450.483pt x 566.71725pt>
+<inc/img/c3th11.png, id=265, 450.483pt x 566.71725pt>
 File: inc/img/c3th11.png Graphic file (type png)
 <use inc/img/c3th11.png>
 Package pdftex.def Info: inc/img/c3th11.png  used on input line 108.
 (pdftex.def)             Requested size: 409.71692pt x 515.44543pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<inc/img/c3th12.png, id=266, 445.665pt x 578.16pt>
+ [18] [19 <./inc/img/c3th11.png>]
+<inc/img/c3th12.png, id=280, 445.665pt x 578.16pt>
 File: inc/img/c3th12.png Graphic file (type png)
 <use inc/img/c3th12.png>
 Package pdftex.def Info: inc/img/c3th12.png  used on input line 119.
 (pdftex.def)             Requested size: 409.71692pt x 531.52548pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<inc/img/c3e1.png, id=270, 499.3857pt x 287.6346pt>
+ [20 <./inc/img/c3th12.png>]
+<inc/img/c3e1.png, id=290, 499.3857pt x 287.6346pt>
 File: inc/img/c3e1.png Graphic file (type png)
 <use inc/img/c3e1.png>
 Package pdftex.def Info: inc/img/c3e1.png  used on input line 130.
 (pdftex.def)             Requested size: 364.19667pt x 209.7696pt.
-[18]
-<inc/img/c3th21.png, id=281, 443.85825pt x 187.29974pt>
+<inc/img/c3th21.png, id=293, 443.85825pt x 187.29974pt>
 File: inc/img/c3th21.png Graphic file (type png)
 <use inc/img/c3th21.png>
 Package pdftex.def Info: inc/img/c3th21.png  used on input line 153.
 (pdftex.def)             Requested size: 364.19667pt x 153.6868pt.
-<inc/img/c3ex2alpha.png, id=282, 499.3857pt x 284.0211pt>
+ [21 <./inc/img/c3e1.png> <./inc/img/c3th21.png>]
+<inc/img/c3ex2alpha.png, id=304, 499.3857pt x 284.0211pt>
 File: inc/img/c3ex2alpha.png Graphic file (type png)
 <use inc/img/c3ex2alpha.png>
 Package pdftex.def Info: inc/img/c3ex2alpha.png  used on input line 162.
 (pdftex.def)             Requested size: 364.19667pt x 207.13432pt.
- [19 <./inc/img/c3e1.png> <./inc/img/c3th21.png>]
-<inc/img/c3ex2beta.png, id=291, 499.3857pt x 284.0211pt>
+<inc/img/c3ex2beta.png, id=305, 499.3857pt x 284.0211pt>
 File: inc/img/c3ex2beta.png Graphic file (type png)
 <use inc/img/c3ex2beta.png>
 Package pdftex.def Info: inc/img/c3ex2beta.png  used on input line 169.
 (pdftex.def)             Requested size: 364.19667pt x 207.13432pt.
-<inc/img/c3ex2gamma.png, id=292, 499.3857pt x 284.0211pt>
+<inc/img/c3ex2gamma.png, id=306, 499.3857pt x 284.0211pt>
 File: inc/img/c3ex2gamma.png Graphic file (type png)
 <use inc/img/c3ex2gamma.png>
 Package pdftex.def Info: inc/img/c3ex2gamma.png  used on input line 176.
 (pdftex.def)             Requested size: 364.19667pt x 207.13432pt.
- [20 <./inc/img/c3ex2alpha.png> <./inc/img/c3ex2beta.png>]) [21 <./inc/img/c3ex
-2gamma.png>] [22 <./inc/img/c3th11.png>] [23 <./inc/img/c3th12.png>]
+ [22 <./inc/img/c3ex2alpha.png> <./inc/img/c3ex2beta.png>]
+[23 <./inc/img/c3ex2gamma.png>]
+<inc/img/c32th11.png, id=331, 434.8245pt x 546.24075pt>
+File: inc/img/c32th11.png Graphic file (type png)
+<use inc/img/c32th11.png>
+Package pdftex.def Info: inc/img/c32th11.png  used on input line 248.
+(pdftex.def)             Requested size: 364.19667pt x 457.52219pt.
+ [24] [25 <./inc/img/c32th11.png>]
+<inc/img/c32th12.png, id=344, 431.81325pt x 549.85425pt>
+File: inc/img/c32th12.png Graphic file (type png)
+<use inc/img/c32th12.png>
+Package pdftex.def Info: inc/img/c32th12.png  used on input line 259.
+(pdftex.def)             Requested size: 364.19667pt x 463.77896pt.
+ [26 <./inc/img/c32th12.png>]
+File: inc/img/c3e1.png Graphic file (type png)
+<use inc/img/c3e1.png>
+Package pdftex.def Info: inc/img/c3e1.png  used on input line 270.
+(pdftex.def)             Requested size: 364.19667pt x 209.7696pt.
+) [27]
 \openout2 = `4-conclusion.aux'.
 
- (4-conclusion.tex) [24
+ (4-conclusion.tex) [28
 
 
 
@@ -1120,14 +1137,13 @@ Package pdftex.def Info: inc/img/c3ex2gamma.png  used on input line 176.
 ]
 \openout2 = `5-biblio.aux'.
 
-
-(5-biblio.tex (0-main.bbl
+ (5-biblio.tex (0-main.bbl
 Underfull \hbox (badness 1038) in paragraph at lines 64--67
 \T2A/cmr/m/n/12 er poker / Noam Brown, Tuomas Sandholm. ---  Science First 
 Release DOI:
  []
 
-)) [25
+)) [29
 
 
 
@@ -1135,12 +1151,12 @@ Release DOI:
 ]
 \openout2 = `61-appendix.aux'.
 
- (61-appendix.tex [26
+ (61-appendix.tex [30
 
 
 
 
-]) [27
+]) [31
 
 ] (0-main.aux (annotation.aux) (abstract.aux) (11-title-page.aux) (2-intro.aux)
  (31-chapter-one.aux) (32-chapter-two.aux)
@@ -1148,14 +1164,17 @@ Release DOI:
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `0-main.out' has not changed.
-(rerunfilecheck)             Checksum: 4345F595D8E8B901833F64EB1047F532;4870.
+(rerunfilecheck)             Checksum: 648AEF34E03F17CCA13628CBB98F4F22;4870.
  ) 
 Here is how much of TeX's memory you used:
- 17966 strings out of 478927
- 261567 string characters out of 2862392
- 779361 words of memory out of 3000000
- 35314 multiletter control sequences out of 15000+600000
+ 18005 strings out of 478927
+ 262311 string characters out of 2862392
+ 779872 words of memory out of 3000000
+ 35342 multiletter control sequences out of 15000+600000
  418877 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  86i,18n,94p,2082b,634s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1179,9 +1198,9 @@ b><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program
  Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX
 /fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX/fonts/
 type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on 0-main.pdf (29 pages, 693629 bytes).
+Output written on 0-main.pdf (33 pages, 775016 bytes).
 PDF statistics:
- 848 PDF objects out of 1000 (max. 8388607)
- 88 named destinations out of 1000 (max. 500000)
- 191 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 889 PDF objects out of 1000 (max. 8388607)
+ 97 named destinations out of 1000 (max. 500000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
 
