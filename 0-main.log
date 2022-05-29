@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.9)  28 MAY 2022 23:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.9)  29 MAY 2022 19:42
 entering extended mode
 **./0-main.tex
 (0-main.tex
@@ -1034,24 +1034,24 @@ File: uni-34.def 2013/05/13 UCS: Unicode data U+2200..U+22FF
 
 
 ]
-<inc/img/ef1.png, id=182, 837.72975pt x 479.391pt>
+<inc/img/ef1.png, id=187, 837.72975pt x 479.391pt>
 File: inc/img/ef1.png Graphic file (type png)
 <use inc/img/ef1.png>
 Package pdftex.def Info: inc/img/ef1.png  used on input line 34.
 (pdftex.def)             Requested size: 409.71692pt x 234.45743pt.
  [9 <./inc/img/ef1.png>] [10] [11] [12]
-<inc/img/ef21.png, id=227, 677.53125pt x 502.87875pt>
+<inc/img/ef21.png, id=231, 677.53125pt x 502.87875pt>
 File: inc/img/ef21.png Graphic file (type png)
 <use inc/img/ef21.png>
-Package pdftex.def Info: inc/img/ef21.png  used on input line 130.
+Package pdftex.def Info: inc/img/ef21.png  used on input line 133.
 (pdftex.def)             Requested size: 409.71692pt x 304.10829pt.
-<inc/img/ef22.png, id=228, 681.747pt x 507.69675pt>
+<inc/img/ef22.png, id=232, 681.747pt x 507.69675pt>
 File: inc/img/ef22.png Graphic file (type png)
 <use inc/img/ef22.png>
-Package pdftex.def Info: inc/img/ef22.png  used on input line 136.
+Package pdftex.def Info: inc/img/ef22.png  used on input line 139.
 (pdftex.def)             Requested size: 409.71692pt x 305.12395pt.
  [13 <./inc/img/ef21.png>]
-Overfull \hbox (15.73834pt too wide) detected at line 208
+Overfull \hbox (15.73834pt too wide) detected at line 211
 []
  []
 
@@ -1064,46 +1064,46 @@ Overfull \hbox (15.73834pt too wide) detected at line 208
 
 
 ] [17]
-<inc/img/c3th11.png, id=266, 450.483pt x 566.71725pt>
+<inc/img/c3th11.png, id=271, 450.483pt x 566.71725pt>
 File: inc/img/c3th11.png Graphic file (type png)
 <use inc/img/c3th11.png>
-Package pdftex.def Info: inc/img/c3th11.png  used on input line 108.
+Package pdftex.def Info: inc/img/c3th11.png  used on input line 110.
 (pdftex.def)             Requested size: 409.71692pt x 515.44543pt.
  [18] [19 <./inc/img/c3th11.png>]
-<inc/img/c3th12.png, id=280, 445.665pt x 578.16pt>
+<inc/img/c3th12.png, id=285, 445.665pt x 578.16pt>
 File: inc/img/c3th12.png Graphic file (type png)
 <use inc/img/c3th12.png>
-Package pdftex.def Info: inc/img/c3th12.png  used on input line 119.
+Package pdftex.def Info: inc/img/c3th12.png  used on input line 121.
 (pdftex.def)             Requested size: 409.71692pt x 531.52548pt.
  [20 <./inc/img/c3th12.png>]
-<inc/img/c3e1.png, id=290, 499.3857pt x 287.6346pt>
+<inc/img/c3e1.png, id=295, 499.3857pt x 287.6346pt>
 File: inc/img/c3e1.png Graphic file (type png)
 <use inc/img/c3e1.png>
-Package pdftex.def Info: inc/img/c3e1.png  used on input line 130.
+Package pdftex.def Info: inc/img/c3e1.png  used on input line 132.
 (pdftex.def)             Requested size: 364.19667pt x 209.7696pt.
-<inc/img/c3th21.png, id=293, 443.85825pt x 187.29974pt>
+<inc/img/c3th21.png, id=298, 443.85825pt x 187.29974pt>
 File: inc/img/c3th21.png Graphic file (type png)
 <use inc/img/c3th21.png>
-Package pdftex.def Info: inc/img/c3th21.png  used on input line 153.
+Package pdftex.def Info: inc/img/c3th21.png  used on input line 155.
 (pdftex.def)             Requested size: 364.19667pt x 153.6868pt.
  [21 <./inc/img/c3e1.png> <./inc/img/c3th21.png>]
-<inc/img/c3ex2alpha.png, id=303, 499.3857pt x 284.0211pt>
+<inc/img/c3ex2alpha.png, id=308, 499.3857pt x 284.0211pt>
 File: inc/img/c3ex2alpha.png Graphic file (type png)
 <use inc/img/c3ex2alpha.png>
-Package pdftex.def Info: inc/img/c3ex2alpha.png  used on input line 162.
+Package pdftex.def Info: inc/img/c3ex2alpha.png  used on input line 164.
 (pdftex.def)             Requested size: 364.19667pt x 207.13432pt.
-<inc/img/c3ex2beta.png, id=304, 499.3857pt x 284.0211pt>
+<inc/img/c3ex2beta.png, id=309, 499.3857pt x 284.0211pt>
 File: inc/img/c3ex2beta.png Graphic file (type png)
 <use inc/img/c3ex2beta.png>
-Package pdftex.def Info: inc/img/c3ex2beta.png  used on input line 169.
+Package pdftex.def Info: inc/img/c3ex2beta.png  used on input line 171.
 (pdftex.def)             Requested size: 364.19667pt x 207.13432pt.
-<inc/img/c3ex2gamma.png, id=305, 499.3857pt x 284.0211pt>
+<inc/img/c3ex2gamma.png, id=310, 499.3857pt x 284.0211pt>
 File: inc/img/c3ex2gamma.png Graphic file (type png)
 <use inc/img/c3ex2gamma.png>
-Package pdftex.def Info: inc/img/c3ex2gamma.png  used on input line 176.
+Package pdftex.def Info: inc/img/c3ex2gamma.png  used on input line 178.
 (pdftex.def)             Requested size: 364.19667pt x 207.13432pt.
  [22 <./inc/img/c3ex2alpha.png> <./inc/img/c3ex2beta.png>]
-Overfull \hbox (5.13155pt too wide) detected at line 192
+Overfull \hbox (5.13155pt too wide) detected at line 197
 \OML/cmm/m/it/12 h[] \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 f[]g\OML/cmm/m/it/12 ; 
   h[] \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 f[]\OML/cmm/m/it/12 ; []\OMS/cmsy/m/n/
 12 g\OML/cmm/m/it/12 ;   h[] \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 f[]\OML/cmm/m/i
@@ -1111,31 +1111,31 @@ t/12 ; []; []\OMS/cmsy/m/n/12 g\OML/cmm/m/it/12 ;
  []
 
 [23 <./inc/img/c3ex2gamma.png>]
-Overfull \hbox (15.93542pt too wide) detected at line 201
+Overfull \hbox (15.93542pt too wide) detected at line 206
 \OML/cmm/m/it/12 h[] \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 f[]\OML/cmm/m/it/12 ; [
 ]; []\OMS/cmsy/m/n/12 g\OML/cmm/m/it/12 ;  h[] \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/
 12 f[]\OML/cmm/m/it/12 ; []; []; []\OMS/cmsy/m/n/12 g
  []
 
 [24]
-<inc/img/c32th11.png, id=334, 406.51875pt x 554.67226pt>
+<inc/img/c32th11.png, id=339, 406.51875pt x 554.67226pt>
 File: inc/img/c32th11.png Graphic file (type png)
 <use inc/img/c32th11.png>
-Package pdftex.def Info: inc/img/c32th11.png  used on input line 274.
+Package pdftex.def Info: inc/img/c32th11.png  used on input line 279.
 (pdftex.def)             Requested size: 364.19667pt x 496.94063pt.
  [25]
-<inc/img/c32th12.png, id=343, 407.121pt x 554.07pt>
+<inc/img/c32th12.png, id=348, 407.121pt x 554.07pt>
 File: inc/img/c32th12.png Graphic file (type png)
 <use inc/img/c32th12.png>
-Package pdftex.def Info: inc/img/c32th12.png  used on input line 285.
+Package pdftex.def Info: inc/img/c32th12.png  used on input line 290.
 (pdftex.def)             Requested size: 364.19667pt x 495.68243pt.
  [26 <./inc/img/c32th11.png>]
-<inc/img/c3r2.png, id=353, 495.7722pt x 287.6346pt>
+<inc/img/c3r2.png, id=358, 495.7722pt x 287.6346pt>
 File: inc/img/c3r2.png Graphic file (type png)
 <use inc/img/c3r2.png>
-Package pdftex.def Info: inc/img/c3r2.png  used on input line 294.
+Package pdftex.def Info: inc/img/c3r2.png  used on input line 299.
 (pdftex.def)             Requested size: 364.19667pt x 211.30574pt.
-) [27 <./inc/img/c32th12.png>] [28 <./inc/img/c3r2.png>]
+ [27 <./inc/img/c32th12.png>]) [28 <./inc/img/c3r2.png>]
 \openout2 = `4-conclusion.aux'.
 
  (4-conclusion.tex) [29
@@ -1160,53 +1160,85 @@ Release DOI:
 ]
 \openout2 = `61-appendix.aux'.
 
- (61-appendix.tex [31
+ (61-appendix.tex
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 2.
+LaTeX Font Info:    Trying to load font information for T2A+cmss on input line 
+2.
+
+(C:\Users\Roman\AppData\Roaming\MiKTeX\tex/latex/cyrillic\t2acmss.fd
+File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+(C:\Users\Roman\AppData\Roaming\MiKTeX\tex/latex/cyrillic\cp1251.def
+File: cp1251.def 2014/10/28 v1.0d Input encoding file
+)
+(inc/src/appendix/A.cs [31
 
 
 
 
-]) [32
+]
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
+77.
+ (C:\Program Files\MiKTeX\tex/latex/base\ts1cmss.fd
+File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+) [32] [33] [34] [35] [36] [37] [38] [39]) [40]
+(C:\Users\Roman\AppData\Roaming\MiKTeX\tex/latex/cyrillic\cp1251.def
+File: cp1251.def 2014/10/28 v1.0d Input encoding file
+)
+(inc/src/appendix/B.cs [41
 
-] (0-main.aux (annotation.aux) (abstract.aux) (11-title-page.aux) (2-intro.aux)
- (31-chapter-one.aux) (32-chapter-two.aux)
-(33-chapter-three.aux) (4-conclusion.aux) (5-biblio.aux) (61-appendix.aux))
+] [42] [43]) [44]
+(C:\Users\Roman\AppData\Roaming\MiKTeX\tex/latex/cyrillic\cp1251.def
+File: cp1251.def 2014/10/28 v1.0d Input encoding file
+)
+(inc/src/appendix/C.cs [45
+
+] [46] [47] [48] [49] [50] [51] [52] [53] [54]
+[55] [56])) [57] (0-main.aux (annotation.aux) (abstract.aux) (11-title-page.aux
+) (2-intro.aux) (31-chapter-one.aux) (32-chapter-two.aux) (33-chapter-three.aux
+) (4-conclusion.aux) (5-biblio.aux) (61-appendix.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `0-main.out' has not changed.
-(rerunfilecheck)             Checksum: 648AEF34E03F17CCA13628CBB98F4F22;4870.
+(rerunfilecheck)             Checksum: 67B759CB162597FFA019995E63FBFB46;5459.
  ) 
 Here is how much of TeX's memory you used:
- 18024 strings out of 478927
- 262631 string characters out of 2862392
- 780169 words of memory out of 3000000
- 35357 multiletter control sequences out of 15000+600000
- 418877 words of font info for 63 fonts, out of 8000000 for 9000
+ 19765 strings out of 478927
+ 286830 string characters out of 2862392
+ 1201171 words of memory out of 3000000
+ 36167 multiletter control sequences out of 15000+600000
+ 420875 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 86i,18n,94p,2082b,634s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\Roman\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati12
-00.pk> <C:\Users\Roman\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
-bx1200.pk> <C:\Users\Roman\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
-0\labx1095.pk> <C:\Users\Roman\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/d
-pi600\larm1000.pk> <C:\Users\Roman\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t
-2a/dpi600\labx1440.pk> <C:\Users\Roman\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
-lh-t2a/dpi600\larm1200.pk> <C:\Users\Roman\AppData\Local\MiKTeX\fonts/pk/ljfour
-/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\Roman\AppData\Local\MiKTeX\fonts/pk/lj
-four/lh/lh-t2a/dpi600\larm1728.pk><C:/Program Files/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cmex
-tra/cmex8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pf
-b><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program
- Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfont
-s/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pf
-b><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program
- Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX
-/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX/fonts/
-type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on 0-main.pdf (34 pages, 791538 bytes).
+ 86i,18n,94p,2080b,2336s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\Roman\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss
+1095.pk> <C:\Users\Roman\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\
+lasx1095.pk> <C:\Users\Roman\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
+600\lass1095.pk> <C:\Users\Roman\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
+/dpi600\larm0600.pk> <C:\Users\Roman\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
+-t2a/dpi600\lati1200.pk> <C:\Users\Roman\AppData\Local\MiKTeX\fonts/pk/ljfour/l
+h/lh-t2a/dpi600\labx1200.pk> <C:\Users\Roman\AppData\Local\MiKTeX\fonts/pk/ljfo
+ur/lh/lh-t2a/dpi600\labx1095.pk> <C:\Users\Roman\AppData\Local\MiKTeX\fonts/pk/
+ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Roman\AppData\Local\MiKTeX\fonts
+/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Roman\AppData\Local\MiKTeX\f
+onts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Roman\AppData\Local\MiKT
+eX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\Roman\AppData\Local\
+MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1728.pk><C:/Program Files/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/pu
+blic/amsfonts/cmextra/cmex8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmm
+i6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Pr
+ogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cms
+y6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Pr
+ogram Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program F
+iles/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on 0-main.pdf (59 pages, 1076447 bytes).
 PDF statistics:
- 896 PDF objects out of 1000 (max. 8388607)
- 100 named destinations out of 1000 (max. 500000)
- 206 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2228 PDF objects out of 2487 (max. 8388607)
+ 1000 named destinations out of 1000 (max. 500000)
+ 214 words of extra memory for PDF output out of 10000 (max. 10000000)
 
