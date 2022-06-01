@@ -16,7 +16,7 @@ namespace CorruptionModel{
         public double[] RegretSum { get; set; }//сожаления
         public double[] tRegretSum { get; set; }
         public double[] StrategySum { get; set; }
-        public double[,] Util { get; set; }//знычение
+        public double[,] Util { get; set; }//значение
         //контрафактические значения
         public double[] CfValues { get; set; }
         public double[] P { get; set; }

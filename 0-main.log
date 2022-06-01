@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.9)  29 MAY 2022 19:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.9)  1 JUN 2022 21:36
 entering extended mode
 **./0-main.tex
 (0-main.tex
@@ -279,14 +279,6 @@ File: t2aenc.dfu 2021/01/27 v1.2l UTF-8 support for inputenc
 Package babel Info: Making " an active character on input line 124.
 Package babel Info: Default for \cyrdash is provided on input line 163.
 ))
-(C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
-12.
-
-(C:\Users\Roman\AppData\Roaming\MiKTeX\tex/latex/cyrillic\t2acmr.fd
-File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-))
 (C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks16
@@ -312,11 +304,8 @@ LaTeX Info: Redefining \halign on input line 119.
 )
 (C:\Users\Roman\AppData\Roaming\MiKTeX\tex/latex/cmap\cmap.sty
 Package: cmap 2021/02/06 v1.0j CMap support: searchable PDF
-
-
-Package cmap Warning: fontenc already loaded - some fonts may be unprocessed.
-
-) (C:\Program Files\MiKTeX\tex/latex/base\flafter.sty
+)
+(C:\Program Files\MiKTeX\tex/latex/base\flafter.sty
 Package: flafter 2018/11/28 v1.4d Standard LaTeX floats after reference (FMi)
 Applying: [2015/01/01] float order in 2-column on input line 49.
 Already applied: [0000/00/00] float order in 2-column on input line 151.
@@ -738,9 +727,16 @@ File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count312
 \l__pdf_internal_box=\box61
 ) (0-main.aux
-(annotation.aux) (abstract.aux) (11-title-page.aux) (2-intro.aux)
-(31-chapter-one.aux) (32-chapter-two.aux) (33-chapter-three.aux)
-(4-conclusion.aux) (5-biblio.aux) (61-appendix.aux))
+(annotation.aux)
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 2
+4.
+
+(C:\Users\Roman\AppData\Roaming\MiKTeX\tex/latex/cyrillic\t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)<<t2a.cmap>> (abstract.aux) (11-title-page.aux) (2-intro.aux) (31-chapter-one.
+aux)
+(32-chapter-two.aux) (33-chapter-three.aux) (4-conclusion.aux) (5-biblio.aux)
+(61-appendix.aux))
 \openout1 = `0-main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -864,11 +860,10 @@ File: lstlang1.sty 2020/03/24 1.8d listings language file
 \c@defin=\count322
 \openout2 = `annotation.aux'.
 
- (annotation.tex<<t2a.cmap>> (C:\Users\Roman\AppData\Roaming\MiKTeX\tex/latex/u
-cs\uni-4.def
+ (annotation.tex
+(C:\Users\Roman\AppData\Roaming\MiKTeX\tex/latex/ucs\uni-4.def
 File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
-))
-[1
+)) [1
 
 
 
@@ -884,7 +879,8 @@ File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
 ]
 \openout2 = `11-title-page.aux'.
 
- (11-title-page.tex
+
+(11-title-page.tex
 (C:\Users\Roman\AppData\Roaming\MiKTeX\tex/latex/ucs\uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
@@ -1205,13 +1201,13 @@ Package rerunfilecheck Info: File `0-main.out' has not changed.
 (rerunfilecheck)             Checksum: 67B759CB162597FFA019995E63FBFB46;5459.
  ) 
 Here is how much of TeX's memory you used:
- 19765 strings out of 478927
- 286830 string characters out of 2862392
- 1201171 words of memory out of 3000000
- 36167 multiletter control sequences out of 15000+600000
+ 19734 strings out of 478927
+ 286414 string characters out of 2862392
+ 1201177 words of memory out of 3000000
+ 36137 multiletter control sequences out of 15000+600000
  420875 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 86i,18n,94p,2080b,2336s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 86i,18n,94p,2080b,2337s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\Roman\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss
 1095.pk> <C:\Users\Roman\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\
 lasx1095.pk> <C:\Users\Roman\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
@@ -1236,7 +1232,7 @@ fonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cms
 y6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Pr
 ogram Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program F
 iles/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on 0-main.pdf (59 pages, 1076447 bytes).
+Output written on 0-main.pdf (59 pages, 1076456 bytes).
 PDF statistics:
  2228 PDF objects out of 2487 (max. 8388607)
  1000 named destinations out of 1000 (max. 500000)
