@@ -20,7 +20,6 @@ namespace CorruptionModel{
         public int numOfOfficials { get { return NumOfPlayers Ц 2; } }
         public int inspectorNumber { get { return NumOfPlayers Ц 2; } }
         public int controllerNumber { get { return NumOfPlayers Ц 1; } }
-
         public double co, ci, fs, fb, fq, fns, fe, fbc, rs, rb, rq;
         public Settings2(Employee hierarchy){
             Hierarchy = hierarchy;
@@ -364,15 +363,11 @@ namespace CorruptionModel{
             cfr1.Init();
             cfr1.Iterate(1);
             Console.WriteLine("¬ыплаты: " + Tools.StrategyToStr(cfr1.ReturnUtil()));
-            Tools.printTree(Console.Out, Tools.getTree(cfr1.root, gr2));
-            Tools.getTree2(cfr1.root).ToList().ForEach(x => Tools.printTree(Console.Out, x));
             Console.WriteLine("Cумма сожалений: " + Tools.GetImmRegSum(cfr1).ToString());
             Cfr cfr2 = new Cfr(gr2, false);
             cfr2.Init();
             cfr2.Iterate(10000);
             Console.WriteLine("¬ыплаты: " + Tools.StrategyToStr(cfr2.ReturnUtil()));
-            Tools.printTree(Console.Out, Tools.getTree(cfr2.root, gr2));
-            Tools.getTree2(cfr2.root).ToList().ForEach(x => Tools.printTree(Console.Out, x));
             Console.WriteLine("Cумма сожалений: " + Tools.GetImmRegSum(cfr2).ToString());
         }
         static void Main(string[] args){

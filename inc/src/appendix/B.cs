@@ -97,16 +97,10 @@ namespace CorruptionModel{
             Cfr cfr1 = new Cfr(r1, external: false); cfr1.Init(); 
             cfr1.Iterate(1);
             Console.WriteLine("Выплаты: " + Tools.StrategyToStr(cfr1.ReturnUtil()));
-            Console.WriteLine("Игровое дерево в развернутой форме:");
-            Tools.printTree(Console.Out, Tools.getTree(cfr1.root, r1));
-            Tools.getTree2(cfr1.root).ToList().ForEach(x => Tools.printTree(Console.Out, x));
             Console.WriteLine("Сумма сожалений: " + Tools.GetImmRegSum(cfr1).ToString());
             Cfr cfr2 = new Cfr(r1, external: false); cfr2.Init();
             cfr2.Iterate(100000);
             Console.WriteLine("Выплаты: " + Tools.StrategyToStr(cfr2.ReturnUtil()));
-            Console.WriteLine("Информационные состояния:");
-            Tools.printTree(Console.Out, Tools.getTree(cfr2.root, r1));
-            Tools.getTree2(cfr2.root).ToList().ForEach(x => Tools.printTree(Console.Out, x));
             Console.WriteLine("Cумма сожалений: " + Tools.GetImmRegSum(cfr2).ToString());
             Console.WriteLine("Вторая группа пареметров");
             Settings1 settings2 = new Settings1() { v = 12, b = 3, pl = 8, ph = 8, q = 4, r = 2, delx = 9, x = 1, dely = 1, y = 7, z = 5, delz = 3 };
@@ -115,8 +109,6 @@ namespace CorruptionModel{
             cfr3.Init();
             cfr3.Iterate(10000);
             Console.WriteLine("Выплаты: " + Tools.StrategyToStr(cfr3.ReturnUtil()));
-            Console.WriteLine("Информационные состояния:");
-            Tools.getTree2(cfr3.root).ToList().ForEach(x => Tools.printTree(Console.Out, x));
             Console.WriteLine("Cумма сожалений: " + Tools.GetImmRegSum(cfr3).ToString());
         }
         static void Main(string[] args){

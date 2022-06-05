@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.9)  1 JUN 2022 21:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.9)  5 JUN 2022 17:16
 entering extended mode
 **./0-main.tex
 (0-main.tex
@@ -1178,36 +1178,36 @@ LaTeX Font Info:    Trying to load font information for TS1+cmss on input line
 77.
  (C:\Program Files\MiKTeX\tex/latex/base\ts1cmss.fd
 File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-) [32] [33] [34] [35] [36] [37] [38] [39]) [40]
+) [32] [33] [34] [35] [36]) [37]
 (C:\Users\Roman\AppData\Roaming\MiKTeX\tex/latex/cyrillic\cp1251.def
 File: cp1251.def 2014/10/28 v1.0d Input encoding file
 )
-(inc/src/appendix/B.cs [41
+(inc/src/appendix/B.cs [38
 
-] [42] [43]) [44]
+] [39] [40]) [41]
 (C:\Users\Roman\AppData\Roaming\MiKTeX\tex/latex/cyrillic\cp1251.def
 File: cp1251.def 2014/10/28 v1.0d Input encoding file
 )
-(inc/src/appendix/C.cs [45
+(inc/src/appendix/C.cs [42
 
-] [46] [47] [48] [49] [50] [51] [52] [53] [54]
-[55] [56])) [57] (0-main.aux (annotation.aux) (abstract.aux) (11-title-page.aux
+] [43] [44] [45] [46] [47] [48] [49] [50] [51]
+[52] [53])) [54] (0-main.aux (annotation.aux) (abstract.aux) (11-title-page.aux
 ) (2-intro.aux) (31-chapter-one.aux) (32-chapter-two.aux) (33-chapter-three.aux
 ) (4-conclusion.aux) (5-biblio.aux) (61-appendix.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `0-main.out' has not changed.
-(rerunfilecheck)             Checksum: 67B759CB162597FFA019995E63FBFB46;5459.
+(rerunfilecheck)             Checksum: 680F3E553BFE2591DFDC4326B6049DD6;5651.
  ) 
 Here is how much of TeX's memory you used:
- 19734 strings out of 478927
- 286414 string characters out of 2862392
- 1201177 words of memory out of 3000000
- 36137 multiletter control sequences out of 15000+600000
+ 19570 strings out of 478927
+ 283982 string characters out of 2862392
+ 1190333 words of memory out of 3000000
+ 36098 multiletter control sequences out of 15000+600000
  420875 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 86i,18n,94p,2080b,2337s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 86i,18n,94p,2023b,2335s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\Roman\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss
 1095.pk> <C:\Users\Roman\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\
 lasx1095.pk> <C:\Users\Roman\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
@@ -1232,9 +1232,9 @@ fonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cms
 y6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Pr
 ogram Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program F
 iles/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on 0-main.pdf (59 pages, 1076456 bytes).
+Output written on 0-main.pdf (56 pages, 1041971 bytes).
 PDF statistics:
- 2228 PDF objects out of 2487 (max. 8388607)
- 1000 named destinations out of 1000 (max. 500000)
+ 2065 PDF objects out of 2073 (max. 8388607)
+ 875 named destinations out of 1000 (max. 500000)
  214 words of extra memory for PDF output out of 10000 (max. 10000000)
 
